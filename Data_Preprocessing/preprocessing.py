@@ -3,7 +3,8 @@ import os
 import pandas as pd
 import numpy as np
 from sklearn.impute import KNNImputer
-from sklearn_pandas import CategoricalImputer
+#from sklearn_pandas import CategoricalImputer
+from sklearn.impute import SimpleImputer
 from Logging.Logging import logger
 
 class Preprocessor:
@@ -203,7 +204,7 @@ class Preprocessor:
         self.data= data
         self.cols_with_missing_values=cols_with_missing_values
         try:
-            self.imputer = CategoricalImputer()
+            self.imputer = SimpleImputer()
             for col in self.cols_with_missing_values:
                 self.data[col] = self.imputer.fit_transform(self.data[col])
             self.file = open(self.log_path, 'a+')
