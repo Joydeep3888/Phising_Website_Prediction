@@ -1,0 +1,1242 @@
+2022-09-04/18:45:23		Starting of Training Model Pre processing
+2022-09-04/18:45:32		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:45:32		Got the data from data_loader.py file
+2022-09-04/18:45:32		Starting the preprocessing
+2022-09-04/18:45:32		There is some exception __init__() missing 1 required positional argument: 'file_object'::
+2022-09-04/18:46:04		Starting of Training Model Pre processing
+2022-09-04/18:46:12		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:46:13		Got the data from data_loader.py file
+2022-09-04/18:46:13		Starting the preprocessing
+2022-09-04/18:46:13		There is some exception __init__() missing 1 required positional argument: 'file_object'::
+2022-09-04/18:46:38		Starting of Training Model Pre processing
+2022-09-04/18:46:42		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:46:42		Got the data from data_loader.py file
+2022-09-04/18:46:42		Starting the preprocessing
+2022-09-04/18:46:42		There is some exception __init__() missing 1 required positional argument: 'file_object'::
+2022-09-04/18:48:41		Starting of Training Model Pre processing
+2022-09-04/18:48:45		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:48:45		Got the data from data_loader.py file
+2022-09-04/18:48:45		Starting the preprocessing
+2022-09-04/18:48:45		There is some exception __init__() missing 1 required positional argument: 'file_object'::
+2022-09-04/18:50:52		Starting of Training Model Pre processing
+2022-09-04/18:50:56		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:50:56		Got the data from data_loader.py file
+2022-09-04/18:50:56		Starting the preprocessing
+2022-09-04/18:50:56		There is some exception __init__() missing 1 required positional argument: 'file_object'::
+2022-09-04/18:52:56		Starting of Training Model Pre processing
+2022-09-04/18:53:02		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:53:02		Got the data from data_loader.py file
+2022-09-04/18:53:02		Starting the preprocessing
+2022-09-04/18:53:02		There is some exception __init__() missing 1 required positional argument: 'file_object'::
+2022-09-04/18:54:03		Starting of Training Model Pre processing
+2022-09-04/18:54:07		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:54:07		Got the data from data_loader.py file
+2022-09-04/18:54:07		Starting the preprocessing
+2022-09-04/18:54:07		There is some exception [Errno 22] Invalid argument: 'C:\\Users\\hp\\OneDrive\\Desktop\\ineuron\\Phising_Website_Prediction\\General_Logging/Preprocessing.log/'::
+2022-09-04/18:55:05		Starting of Training Model Pre processing
+2022-09-04/18:55:10		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:55:10		Got the data from data_loader.py file
+2022-09-04/18:55:10		Starting the preprocessing
+2022-09-04/18:55:10		There is some exception 'Preprocessor' object has no attribute 'file_open'::
+2022-09-04/18:56:56		Starting of Training Model Pre processing
+2022-09-04/18:57:02		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:57:02		Got the data from data_loader.py file
+2022-09-04/18:57:02		Starting the preprocessing
+2022-09-04/18:57:02		There is some exception ::
+2022-09-04/18:58:33		Starting of Training Model Pre processing
+2022-09-04/18:58:37		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:58:37		Got the data from data_loader.py file
+2022-09-04/18:58:37		Starting the preprocessing
+2022-09-04/18:58:59		Starting of Training Model Pre processing
+2022-09-04/18:59:06		Inside Training Model: Preprocessing_Training method
+2022-09-04/18:59:06		Got the data from data_loader.py file
+2022-09-04/18:59:06		Starting the preprocessing
+2022-09-04/18:59:06		
+2022-09-04/19:00:55		Starting of Training Model Pre processing
+2022-09-04/19:01:00		Inside Training Model: Preprocessing_Training method
+2022-09-04/19:01:00		Got the data from data_loader.py file
+2022-09-04/19:01:00		Starting the preprocessing
+2022-09-04/19:01:00		
+2022-09-04/19:01:05		Inside Training Model: Preprocessing_Training method
+2022-09-04/19:01:05		Got the data from data_loader.py file
+2022-09-04/19:01:05		Starting the preprocessing
+2022-09-04/19:01:05		
+2022-09-04/19:02:11		Starting of Training Model Pre processing
+2022-09-04/19:02:16		Inside Training Model: Preprocessing_Training method
+2022-09-04/19:02:16		Got the data from data_loader.py file
+2022-09-04/19:02:16		Starting the preprocessing
+2022-09-04/19:02:16		
+2022-09-04/19:02:50		Starting of Training Model Pre processing
+2022-09-04/19:02:54		Inside Training Model: Preprocessing_Training method
+2022-09-04/19:02:54		Got the data from data_loader.py file
+2022-09-04/19:02:54		Starting the preprocessing
+2022-09-04/19:02:54		Successfully Called remove columns method of Preprocessor class to remove the unwanted columns which does not contribute to predicton
+2022-09-04/23:45:32		Starting of Training Model Pre processing
+2022-09-04/23:45:38		Inside Training Model: Preprocessing_Training method
+2022-09-04/23:45:38		Got the data from data_loader.py file
+2022-09-04/23:45:38		Starting the preprocessing
+2022-09-04/23:45:38		Successfully Called remove columns method of Preprocessor class to remove the unwanted columns which does not contribute to predicton
+2022-09-04/23:59:30		Starting of Training Model Pre processing
+2022-09-04/23:59:35		Inside Training Model: Preprocessing_Training method
+2022-09-04/23:59:35		Got the data from data_loader.py file
+2022-09-04/23:59:35		Starting the preprocessing
+2022-09-04/23:59:35		Successfully Called remove columns method of Preprocessor class to remove the unwanted columns which does not contribute to predicton
+2022-09-04/23:59:35		Separating label feature
+2022-09-04/23:59:35		
+2022-09-05/00:03:22		Starting of Training Model Pre processing
+2022-09-05/00:03:32		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:03:32		Got the data from data_loader.py file
+2022-09-05/00:03:32		Starting the preprocessing
+2022-09-05/00:03:32		Successfully Called remove columns method of Preprocessor class to remove the unwanted columns which does not contribute to predicton
+2022-09-05/00:03:32		Separating label feature
+2022-09-05/00:03:32		
+2022-09-05/00:10:04		Starting of Training Model Pre processing
+2022-09-05/00:10:09		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:10:09		module 'data_ingestion.data_loader' has no attribute 'get_useful_data_label_data'
+2022-09-05/00:12:27		Starting of Training Model Pre processing
+2022-09-05/00:12:31		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:12:31		module 'data_ingestion.data_loader' has no attribute 'get_data_from_source'
+2022-09-05/00:13:57		Starting of Training Model Pre processing
+2022-09-05/00:14:03		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:14:03		module 'data_ingestion.data_loader' has no attribute 'get_data_from_source'
+2022-09-05/00:15:20		Starting of Training Model Pre processing
+2022-09-05/00:15:24		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:15:24		Got the data from data_loader.py file
+2022-09-05/00:15:24		Starting the preprocessing
+2022-09-05/00:15:24		
+2022-09-05/00:18:22		Starting of Training Model Pre processing
+2022-09-05/00:18:23		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:18:24		Got the data from data_loader.py file
+2022-09-05/00:18:24		Starting the preprocessing
+2022-09-05/00:18:24		
+2022-09-05/00:18:33		Starting of Training Model Pre processing
+2022-09-05/00:18:37		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:18:37		Got the data from data_loader.py file
+2022-09-05/00:18:37		Starting the preprocessing
+2022-09-05/00:18:37		
+2022-09-05/00:20:41		Starting of Training Model Pre processing
+2022-09-05/00:20:45		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:20:45		Got the data from data_loader.py file
+2022-09-05/00:20:45		Starting the preprocessing
+2022-09-05/00:20:45		
+2022-09-05/00:21:14		Starting of Training Model Pre processing
+2022-09-05/00:21:18		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:21:18		Got the data from data_loader.py file
+2022-09-05/00:21:18		Starting the preprocessing
+2022-09-05/00:21:18		Successfully Called remove columns method of Preprocessor class to remove the unwanted columns which does not contribute to predicton
+2022-09-05/00:21:18		Separating label feature
+2022-09-05/00:26:20		Starting of Training Model Pre processing
+2022-09-05/00:26:26		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:26:26		Got the data from data_loader.py file
+2022-09-05/00:26:26		Starting the preprocessing
+2022-09-05/00:26:26		Successfully Called remove columns method of Preprocessor class to remove the unwanted columns which does not contribute to predicton
+2022-09-05/00:26:26		Separating label feature
+2022-09-05/00:57:33		Starting of Training Model Pre processing
+2022-09-05/00:57:39		Inside Training Model: Preprocessing_Training method
+2022-09-05/00:57:39		Got the data from data_loader.py file
+2022-09-05/00:57:39		Starting the preprocessing
+2022-09-05/00:57:39		Successfully separated the of label column and the rest of the data
+2022-09-05/00:57:39		"['Unnecessary_Column'] not found in axis"
+2022-09-05/20:34:46		Starting of Training Model Pre processing
+2022-09-05/20:34:51		Inside Training Model: Preprocessing_Training method
+2022-09-05/20:34:51		Got the data from data_loader.py file
+2022-09-05/20:34:51		Starting the preprocessing
+2022-09-05/20:34:51		Successfully separated the of label column and the rest of the data
+2022-09-05/20:34:51		Replace Invalid values with Null
+2022-09-05/20:34:51		I/O operation on closed file.
+2022-09-05/20:53:51		Starting of Training Model Pre processing
+2022-09-05/20:53:55		Inside Training Model: Preprocessing_Training method
+2022-09-05/20:53:55		Got the data from data_loader.py file
+2022-09-05/20:53:55		Starting the preprocessing
+2022-09-05/20:53:55		Successfully separated the of label column and the rest of the data
+2022-09-05/20:53:55		Replace Invalid values with Null
+2022-09-05/20:53:55		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/20:55:44		Starting of Training Model Pre processing
+2022-09-05/20:55:49		Inside Training Model: Preprocessing_Training method
+2022-09-05/20:55:49		Got the data from data_loader.py file
+2022-09-05/20:55:49		Starting the preprocessing
+2022-09-05/20:55:49		Successfully separated the of label column and the rest of the data
+2022-09-05/20:55:49		Replace Invalid values with Null
+2022-09-05/20:55:49		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:04:26		Starting of Training Model Pre processing
+2022-09-05/23:04:31		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:04:31		Got the data from data_loader.py file
+2022-09-05/23:04:31		Starting the preprocessing
+2022-09-05/23:04:31		Successfully separated the of label column and the rest of the data
+2022-09-05/23:04:31		Replace Invalid values with Null
+2022-09-05/23:04:31		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:04:31		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:04:31		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:04:31		I/O operation on closed file.
+2022-09-05/23:06:51		Starting of Training Model Pre processing
+2022-09-05/23:07:00		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:07:00		Got the data from data_loader.py file
+2022-09-05/23:07:00		Starting the preprocessing
+2022-09-05/23:07:00		Successfully separated the of label column and the rest of the data
+2022-09-05/23:07:00		Replace Invalid values with Null
+2022-09-05/23:07:00		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:07:00		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:07:00		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:07:00		I/O operation on closed file.
+2022-09-05/23:09:05		Starting of Training Model Pre processing
+2022-09-05/23:09:11		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:09:11		Got the data from data_loader.py file
+2022-09-05/23:09:11		Starting the preprocessing
+2022-09-05/23:09:11		Successfully separated the of label column and the rest of the data
+2022-09-05/23:09:11		Replace Invalid values with Null
+2022-09-05/23:09:11		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:09:11		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:09:11		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:09:11		apply_log() missing 2 required positional arguments: 'file_name' and 'msg'
+2022-09-05/23:10:59		Starting of Training Model Pre processing
+2022-09-05/23:11:04		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:11:04		Got the data from data_loader.py file
+2022-09-05/23:11:04		Starting the preprocessing
+2022-09-05/23:11:04		Successfully separated the of label column and the rest of the data
+2022-09-05/23:11:04		Replace Invalid values with Null
+2022-09-05/23:11:04		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:11:04		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:11:04		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:11:04		apply_log() missing 2 required positional arguments: 'file_name' and 'msg'
+2022-09-05/23:13:46		Starting of Training Model Pre processing
+2022-09-05/23:13:50		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:13:50		Got the data from data_loader.py file
+2022-09-05/23:13:50		Starting the preprocessing
+2022-09-05/23:13:50		Successfully separated the of label column and the rest of the data
+2022-09-05/23:13:50		Replace Invalid values with Null
+2022-09-05/23:13:50		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:13:50		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:13:50		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:13:50		End of get_columns_with_zero_std_deviation
+2022-09-05/23:15:05		Starting of Training Model Pre processing
+2022-09-05/23:15:18		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:15:19		Got the data from data_loader.py file
+2022-09-05/23:15:19		Starting the preprocessing
+2022-09-05/23:15:19		Successfully separated the of label column and the rest of the data
+2022-09-05/23:15:19		Replace Invalid values with Null
+2022-09-05/23:15:19		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:15:19		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:15:19		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:15:19		End of get_columns_with_zero_std_deviation
+2022-09-05/23:15:19		End **********Preprocessing***************
+2022-09-05/23:15:44		Starting of Training Model Pre processing
+2022-09-05/23:15:49		Inside Training Model: Preprocessing_Training method
+2022-09-05/23:15:49		Got the data from data_loader.py file
+2022-09-05/23:15:49		Starting the preprocessing
+2022-09-05/23:15:49		Successfully separated the of label column and the rest of the data
+2022-09-05/23:15:49		Replace Invalid values with Null
+2022-09-05/23:15:49		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-05/23:15:49		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-05/23:15:49		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-05/23:15:49		End of get_columns_with_zero_std_deviation
+2022-09-05/23:15:49		End of **********Preprocessing***************
+2022-09-07/00:32:53		Starting of Training Model Pre processing
+2022-09-07/00:32:58		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:32:58		Got the data from data_loader.py file
+2022-09-07/00:32:58		Starting the preprocessing
+2022-09-07/00:32:58		Successfully separated the of label column and the rest of the data
+2022-09-07/00:32:58		Replace Invalid values with Null
+2022-09-07/00:32:58		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:32:58		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:32:58		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:32:58		End of get_columns_with_zero_std_deviation
+2022-09-07/00:32:58		End of **********Preprocessing***************
+2022-09-07/00:32:58		Start of *********Clustering**************
+2022-09-07/00:32:58		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:32:58		apply_log() missing 1 required positional argument: 'msg'
+2022-09-07/00:35:58		Starting of Training Model Pre processing
+2022-09-07/00:36:02		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:36:02		Got the data from data_loader.py file
+2022-09-07/00:36:02		Starting the preprocessing
+2022-09-07/00:36:02		Successfully separated the of label column and the rest of the data
+2022-09-07/00:36:02		Replace Invalid values with Null
+2022-09-07/00:36:02		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:36:02		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:36:02		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:36:02		End of get_columns_with_zero_std_deviation
+2022-09-07/00:36:02		End of **********Preprocessing***************
+2022-09-07/00:36:02		Start of *********Clustering**************
+2022-09-07/00:36:02		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:36:02		apply_log() missing 1 required positional argument: 'msg'
+2022-09-07/00:38:31		Starting of Training Model Pre processing
+2022-09-07/00:38:35		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:38:35		Got the data from data_loader.py file
+2022-09-07/00:38:35		Starting the preprocessing
+2022-09-07/00:38:35		Successfully separated the of label column and the rest of the data
+2022-09-07/00:38:35		Replace Invalid values with Null
+2022-09-07/00:38:35		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:38:35		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:38:35		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:38:35		End of get_columns_with_zero_std_deviation
+2022-09-07/00:38:35		End of **********Preprocessing***************
+2022-09-07/00:38:35		Start of *********Clustering**************
+2022-09-07/00:38:35		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:38:35		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:38:38		
+2022-09-07/00:40:12		Starting of Training Model Pre processing
+2022-09-07/00:40:17		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:40:17		Got the data from data_loader.py file
+2022-09-07/00:40:17		Starting the preprocessing
+2022-09-07/00:40:17		Successfully separated the of label column and the rest of the data
+2022-09-07/00:40:17		Replace Invalid values with Null
+2022-09-07/00:40:17		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:40:17		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:40:17		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:40:17		End of get_columns_with_zero_std_deviation
+2022-09-07/00:40:17		End of **********Preprocessing***************
+2022-09-07/00:40:17		Start of *********Clustering**************
+2022-09-07/00:40:17		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:40:17		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:40:20		Clustering: Elbow has been plotted
+2022-09-07/00:40:20		Clustering: Creating Clusters
+2022-09-07/00:40:20		
+2022-09-07/00:41:34		Starting of Training Model Pre processing
+2022-09-07/00:41:38		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:41:38		Got the data from data_loader.py file
+2022-09-07/00:41:38		Starting the preprocessing
+2022-09-07/00:41:38		Successfully separated the of label column and the rest of the data
+2022-09-07/00:41:38		Replace Invalid values with Null
+2022-09-07/00:41:38		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:41:38		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:41:38		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:41:38		End of get_columns_with_zero_std_deviation
+2022-09-07/00:41:38		End of **********Preprocessing***************
+2022-09-07/00:41:38		Start of *********Clustering**************
+2022-09-07/00:41:38		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:41:38		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:41:41		Clustering: Elbow has been plotted
+2022-09-07/00:41:41		Clustering: Creating Clusters
+2022-09-07/00:41:41		Clustering: Clusters created
+2022-09-07/00:43:03		Starting of Training Model Pre processing
+2022-09-07/00:43:11		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:43:11		Got the data from data_loader.py file
+2022-09-07/00:43:11		Starting the preprocessing
+2022-09-07/00:43:11		Successfully separated the of label column and the rest of the data
+2022-09-07/00:43:11		Replace Invalid values with Null
+2022-09-07/00:43:11		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:43:11		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:43:11		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:43:11		End of get_columns_with_zero_std_deviation
+2022-09-07/00:43:11		End of **********Preprocessing***************
+2022-09-07/00:43:11		Start of *********Clustering**************
+2022-09-07/00:43:11		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:43:11		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:43:14		Clustering: Elbow has been plotted
+2022-09-07/00:43:14		Clustering: Creating Clusters
+2022-09-07/00:43:14		
+2022-09-07/00:44:36		Starting of Training Model Pre processing
+2022-09-07/00:44:41		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:44:41		Got the data from data_loader.py file
+2022-09-07/00:44:41		Starting the preprocessing
+2022-09-07/00:44:42		Successfully separated the of label column and the rest of the data
+2022-09-07/00:44:42		Replace Invalid values with Null
+2022-09-07/00:44:42		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:44:42		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:44:42		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:44:42		End of get_columns_with_zero_std_deviation
+2022-09-07/00:44:42		End of **********Preprocessing***************
+2022-09-07/00:44:42		Start of *********Clustering**************
+2022-09-07/00:44:42		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:44:42		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:44:44		Clustering: Elbow has been plotted
+2022-09-07/00:44:44		Clustering: Creating Clusters
+2022-09-07/00:44:44		
+2022-09-07/00:45:48		Starting of Training Model Pre processing
+2022-09-07/00:45:52		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:45:52		Got the data from data_loader.py file
+2022-09-07/00:45:52		Starting the preprocessing
+2022-09-07/00:45:52		Successfully separated the of label column and the rest of the data
+2022-09-07/00:45:52		Replace Invalid values with Null
+2022-09-07/00:45:52		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:45:52		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:45:52		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:45:53		End of get_columns_with_zero_std_deviation
+2022-09-07/00:45:53		End of **********Preprocessing***************
+2022-09-07/00:45:53		Start of *********Clustering**************
+2022-09-07/00:45:53		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:45:53		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:45:55		Clustering: Elbow has been plotted
+2022-09-07/00:45:55		Clustering: Creating Clusters
+2022-09-07/00:45:55		
+2022-09-07/00:46:41		Starting of Training Model Pre processing
+2022-09-07/00:46:46		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:46:46		Got the data from data_loader.py file
+2022-09-07/00:46:46		Starting the preprocessing
+2022-09-07/00:46:46		Successfully separated the of label column and the rest of the data
+2022-09-07/00:46:46		Replace Invalid values with Null
+2022-09-07/00:46:46		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:46:46		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:46:46		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:46:46		End of get_columns_with_zero_std_deviation
+2022-09-07/00:46:46		End of **********Preprocessing***************
+2022-09-07/00:46:46		Start of *********Clustering**************
+2022-09-07/00:46:46		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:46:46		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:46:48		Clustering: Elbow has been plotted
+2022-09-07/00:46:48		Clustering: Creating Clusters
+2022-09-07/00:46:48		
+2022-09-07/00:47:24		Starting of Training Model Pre processing
+2022-09-07/00:47:31		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:47:31		Got the data from data_loader.py file
+2022-09-07/00:47:31		Starting the preprocessing
+2022-09-07/00:47:31		Successfully separated the of label column and the rest of the data
+2022-09-07/00:47:31		Replace Invalid values with Null
+2022-09-07/00:47:31		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:47:31		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:47:31		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:47:31		End of get_columns_with_zero_std_deviation
+2022-09-07/00:47:31		End of **********Preprocessing***************
+2022-09-07/00:47:31		Start of *********Clustering**************
+2022-09-07/00:47:31		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:47:31		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:47:34		Clustering: Elbow has been plotted
+2022-09-07/00:47:34		Clustering: Creating Clusters
+2022-09-07/00:47:34		
+2022-09-07/00:50:10		Starting of Training Model Pre processing
+2022-09-07/00:50:17		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:50:17		Got the data from data_loader.py file
+2022-09-07/00:50:17		Starting the preprocessing
+2022-09-07/00:50:17		Successfully separated the of label column and the rest of the data
+2022-09-07/00:50:17		Replace Invalid values with Null
+2022-09-07/00:50:17		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:50:17		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:50:17		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:50:17		End of get_columns_with_zero_std_deviation
+2022-09-07/00:50:17		End of **********Preprocessing***************
+2022-09-07/00:50:17		Start of *********Clustering**************
+2022-09-07/00:50:17		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:50:17		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:50:20		Clustering: Elbow has been plotted
+2022-09-07/00:50:20		Clustering: Creating Clusters
+2022-09-07/00:50:20		Clustering: Clusters created
+2022-09-07/00:52:00		Starting of Training Model Pre processing
+2022-09-07/00:52:09		Inside Training Model: Preprocessing_Training method
+2022-09-07/00:52:09		Got the data from data_loader.py file
+2022-09-07/00:52:09		Starting the preprocessing
+2022-09-07/00:52:09		Successfully separated the of label column and the rest of the data
+2022-09-07/00:52:09		Replace Invalid values with Null
+2022-09-07/00:52:09		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-07/00:52:09		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-07/00:52:09		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-07/00:52:09		End of get_columns_with_zero_std_deviation
+2022-09-07/00:52:09		End of **********Preprocessing***************
+2022-09-07/00:52:09		Start of *********Clustering**************
+2022-09-07/00:52:09		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-07/00:52:09		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-07/00:52:11		Clustering: Elbow has been plotted
+2022-09-07/00:52:11		Clustering: Creating Clusters
+2022-09-07/00:52:11		Clustering: Clusters created
+2022-09-08/00:42:51		Starting of Training Model Pre processing
+2022-09-08/00:43:03		Inside Training Model: Preprocessing_Training method
+2022-09-08/00:43:03		Got the data from data_loader.py file
+2022-09-08/00:43:03		Starting the preprocessing
+2022-09-08/00:43:03		Successfully separated the of label column and the rest of the data
+2022-09-08/00:43:03		Replace Invalid values with Null
+2022-09-08/00:43:03		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/00:43:03		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/00:43:03		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/00:43:03		End of get_columns_with_zero_std_deviation
+2022-09-08/00:43:03		End of **********Preprocessing***************
+2022-09-08/00:43:03		Start of *********Clustering**************
+2022-09-08/00:43:03		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/00:43:03		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/00:43:06		Clustering: Elbow has been plotted
+2022-09-08/00:43:06		Clustering: Creating Clusters
+2022-09-08/00:43:06		
+2022-09-08/00:48:17		Starting of Training Model Pre processing
+2022-09-08/00:48:28		Inside Training Model: Preprocessing_Training method
+2022-09-08/00:48:28		Got the data from data_loader.py file
+2022-09-08/00:48:28		Starting the preprocessing
+2022-09-08/00:48:28		Successfully separated the of label column and the rest of the data
+2022-09-08/00:48:28		Replace Invalid values with Null
+2022-09-08/00:48:28		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/00:48:28		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/00:48:28		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/00:48:28		End of get_columns_with_zero_std_deviation
+2022-09-08/00:48:28		End of **********Preprocessing***************
+2022-09-08/00:48:28		Start of *********Clustering**************
+2022-09-08/00:48:28		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/00:48:28		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/00:48:31		Clustering: Elbow has been plotted
+2022-09-08/00:48:31		Clustering: Creating Clusters
+2022-09-08/00:48:31		
+2022-09-08/00:50:25		Starting of Training Model Pre processing
+2022-09-08/00:50:30		Inside Training Model: Preprocessing_Training method
+2022-09-08/00:50:30		Got the data from data_loader.py file
+2022-09-08/00:50:30		Starting the preprocessing
+2022-09-08/00:50:30		Successfully separated the of label column and the rest of the data
+2022-09-08/00:50:30		Replace Invalid values with Null
+2022-09-08/00:50:30		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/00:50:30		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/00:50:30		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/00:50:30		End of get_columns_with_zero_std_deviation
+2022-09-08/00:50:30		End of **********Preprocessing***************
+2022-09-08/00:50:30		Start of *********Clustering**************
+2022-09-08/00:50:30		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/00:50:30		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/00:50:33		Clustering: Elbow has been plotted
+2022-09-08/00:50:33		Clustering: Creating Clusters
+2022-09-08/00:50:33		
+2022-09-08/00:53:36		Starting of Training Model Pre processing
+2022-09-08/00:53:41		Inside Training Model: Preprocessing_Training method
+2022-09-08/00:53:41		Got the data from data_loader.py file
+2022-09-08/00:53:41		Starting the preprocessing
+2022-09-08/00:53:41		Successfully separated the of label column and the rest of the data
+2022-09-08/00:53:41		Replace Invalid values with Null
+2022-09-08/00:53:41		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/00:53:41		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/00:53:41		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/00:53:41		End of get_columns_with_zero_std_deviation
+2022-09-08/00:53:41		End of **********Preprocessing***************
+2022-09-08/00:53:41		Start of *********Clustering**************
+2022-09-08/00:53:41		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/00:53:41		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/00:53:43		Clustering: Elbow has been plotted
+2022-09-08/00:53:43		Clustering: Creating Clusters
+2022-09-08/00:53:43		
+2022-09-08/00:58:35		Starting of Training Model Pre processing
+2022-09-08/00:58:40		Inside Training Model: Preprocessing_Training method
+2022-09-08/00:58:40		Got the data from data_loader.py file
+2022-09-08/00:58:40		Starting the preprocessing
+2022-09-08/00:58:40		Successfully separated the of label column and the rest of the data
+2022-09-08/00:58:40		Replace Invalid values with Null
+2022-09-08/00:58:40		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/00:58:40		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/00:58:40		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/00:58:40		End of get_columns_with_zero_std_deviation
+2022-09-08/00:58:40		End of **********Preprocessing***************
+2022-09-08/00:58:40		Start of *********Clustering**************
+2022-09-08/00:58:40		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/00:58:40		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/00:58:42		Clustering: Elbow has been plotted
+2022-09-08/00:58:42		Clustering: Creating Clusters
+2022-09-08/00:58:42		
+2022-09-08/01:01:11		Starting of Training Model Pre processing
+2022-09-08/01:01:16		Inside Training Model: Preprocessing_Training method
+2022-09-08/01:01:16		Got the data from data_loader.py file
+2022-09-08/01:01:16		Starting the preprocessing
+2022-09-08/01:01:16		Successfully separated the of label column and the rest of the data
+2022-09-08/01:01:16		Replace Invalid values with Null
+2022-09-08/01:01:16		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/01:01:16		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/01:01:16		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/01:01:16		End of get_columns_with_zero_std_deviation
+2022-09-08/01:01:16		End of **********Preprocessing***************
+2022-09-08/01:01:16		Start of *********Clustering**************
+2022-09-08/01:01:16		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/01:01:16		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/01:01:18		Clustering: Elbow has been plotted
+2022-09-08/01:01:18		Clustering: Creating Clusters
+2022-09-08/01:01:19		Clustering: Clusters created
+2022-09-08/01:04:21		Starting of Training Model Pre processing
+2022-09-08/01:04:26		Inside Training Model: Preprocessing_Training method
+2022-09-08/01:04:26		Got the data from data_loader.py file
+2022-09-08/01:04:26		Starting the preprocessing
+2022-09-08/01:04:26		Successfully separated the of label column and the rest of the data
+2022-09-08/01:04:26		Replace Invalid values with Null
+2022-09-08/01:04:26		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-08/01:04:26		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-08/01:04:26		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-08/01:04:26		End of get_columns_with_zero_std_deviation
+2022-09-08/01:04:26		End of **********Preprocessing***************
+2022-09-08/01:04:26		Start of *********Clustering**************
+2022-09-08/01:04:26		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-08/01:04:26		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-08/01:04:29		Clustering: Elbow has been plotted
+2022-09-08/01:04:29		Clustering: Creating Clusters
+2022-09-08/01:04:29		Clustering: Clusters created
+2022-09-13/00:00:49		Starting of Training Model Pre processing
+2022-09-13/00:00:56		Inside Training Model: Preprocessing_Training method
+2022-09-13/00:00:56		Got the data from data_loader.py file
+2022-09-13/00:00:56		Starting the preprocessing
+2022-09-13/00:00:56		Successfully separated the of label column and the rest of the data
+2022-09-13/00:00:56		Replace Invalid values with Null
+2022-09-13/00:00:56		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-13/00:00:56		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-13/00:00:56		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-13/00:00:56		End of get_columns_with_zero_std_deviation
+2022-09-13/00:00:56		End of **********Preprocessing***************
+2022-09-13/00:00:56		Start of *********Clustering**************
+2022-09-13/00:00:56		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-13/00:00:56		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-13/00:00:58		Clustering: Elbow has been plotted
+2022-09-13/00:00:58		Clustering: Creating Clusters
+2022-09-13/00:00:59		Clustering: Clusters created
+2022-09-13/01:53:05		Starting of Training Model Pre processing
+2022-09-13/01:53:05		Inside Training Model: Preprocessing_Training method
+2022-09-13/01:53:05		Got the data from data_loader.py file
+2022-09-13/01:53:05		Starting the preprocessing
+2022-09-13/01:53:05		Successfully separated the of label column and the rest of the data
+2022-09-13/01:53:05		Replace Invalid values with Null
+2022-09-13/01:53:05		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-13/01:53:05		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-13/01:53:05		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-13/01:53:05		End of get_columns_with_zero_std_deviation
+2022-09-13/01:53:05		End of **********Preprocessing***************
+2022-09-13/01:53:05		Start of *********Clustering**************
+2022-09-13/01:53:05		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-13/01:53:05		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-13/01:53:07		Clustering: Elbow has been plotted
+2022-09-13/01:53:07		Clustering: Creating Clusters
+2022-09-13/01:53:07		Clustering: Clusters created
+2022-09-13/01:53:07		Found input variables with inconsistent numbers of samples: [1137, 11055]
+2022-09-14/21:50:05		Starting of Training Model Pre processing
+2022-09-14/21:50:11		Inside Training Model: Preprocessing_Training method
+2022-09-14/21:50:11		Got the data from data_loader.py file
+2022-09-14/21:50:11		Starting the preprocessing
+2022-09-14/21:50:11		Successfully separated the of label column and the rest of the data
+2022-09-14/21:50:11		Replace Invalid values with Null
+2022-09-14/21:50:11		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/21:50:11		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/21:50:11		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/21:50:11		End of get_columns_with_zero_std_deviation
+2022-09-14/21:50:11		End of **********Preprocessing***************
+2022-09-14/21:50:11		Start of *********Clustering**************
+2022-09-14/21:50:11		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/21:50:12		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/21:50:15		Clustering: Elbow has been plotted
+2022-09-14/21:50:15		Clustering: Creating Clusters
+2022-09-14/21:50:15		Clustering: Clusters created
+2022-09-14/21:50:15		Found input variables with inconsistent numbers of samples: [1137, 11055]
+2022-09-14/21:56:30		Starting of Training Model Pre processing
+2022-09-14/21:56:36		Inside Training Model: Preprocessing_Training method
+2022-09-14/21:56:36		Got the data from data_loader.py file
+2022-09-14/21:56:36		Starting the preprocessing
+2022-09-14/21:56:36		get_useful_data_label_data() missing 1 required positional argument: 'columns'
+2022-09-14/21:56:57		Starting of Training Model Pre processing
+2022-09-14/21:56:58		Inside Training Model: Preprocessing_Training method
+2022-09-14/21:56:58		Got the data from data_loader.py file
+2022-09-14/21:56:58		Starting the preprocessing
+2022-09-14/21:56:58		get_useful_data_label_data() missing 1 required positional argument: 'columns'
+2022-09-14/21:57:16		Inside Training Model: Preprocessing_Training method
+2022-09-14/21:57:16		Got the data from data_loader.py file
+2022-09-14/21:57:16		Starting the preprocessing
+2022-09-14/21:57:16		get_useful_data_label_data() missing 1 required positional argument: 'columns'
+2022-09-14/21:57:36		Starting of Training Model Pre processing
+2022-09-14/21:58:30		Starting of Training Model Pre processing
+2022-09-14/21:58:38		Starting of Training Model Pre processing
+2022-09-14/21:58:49		Inside Training Model: Preprocessing_Training method
+2022-09-14/21:58:49		Got the data from data_loader.py file
+2022-09-14/21:58:49		Starting the preprocessing
+2022-09-14/21:58:49		
+2022-09-14/22:02:59		Starting of Training Model Pre processing
+2022-09-14/22:03:06		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:03:06		Got the data from data_loader.py file
+2022-09-14/22:03:06		Starting the preprocessing
+2022-09-14/22:03:06		
+2022-09-14/22:03:58		Starting of Training Model Pre processing
+2022-09-14/22:04:04		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:04:04		Got the data from data_loader.py file
+2022-09-14/22:04:04		Starting the preprocessing
+2022-09-14/22:04:04		
+2022-09-14/22:06:50		Starting of Training Model Pre processing
+2022-09-14/22:06:55		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:06:55		Got the data from data_loader.py file
+2022-09-14/22:06:55		Starting the preprocessing
+2022-09-14/22:06:55		Successfully separated the of label column and the rest of the data
+2022-09-14/22:06:55		Replace Invalid values with Null
+2022-09-14/22:06:55		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:06:55		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:06:55		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:06:55		End of get_columns_with_zero_std_deviation
+2022-09-14/22:06:55		End of **********Preprocessing***************
+2022-09-14/22:06:55		Start of *********Clustering**************
+2022-09-14/22:06:55		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:06:55		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:06:59		Clustering: Elbow has been plotted
+2022-09-14/22:06:59		Clustering: Creating Clusters
+2022-09-14/22:07:00		Clustering: Clusters created
+2022-09-14/22:07:00		'Result'
+2022-09-14/22:09:59		Starting of Training Model Pre processing
+2022-09-14/22:10:03		Starting of Training Model Pre processing
+2022-09-14/22:10:09		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:10:09		Got the data from data_loader.py file
+2022-09-14/22:10:09		Starting the preprocessing
+2022-09-14/22:10:09		Successfully separated the of label column and the rest of the data
+2022-09-14/22:10:09		Replace Invalid values with Null
+2022-09-14/22:10:09		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:10:09		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:10:09		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:10:09		End of get_columns_with_zero_std_deviation
+2022-09-14/22:10:09		End of **********Preprocessing***************
+2022-09-14/22:10:09		Start of *********Clustering**************
+2022-09-14/22:10:09		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:10:09		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:10:12		Clustering: Elbow has been plotted
+2022-09-14/22:10:12		Clustering: Creating Clusters
+2022-09-14/22:10:13		Clustering: Clusters created
+2022-09-14/22:10:13		Found input variables with inconsistent numbers of samples: [1137, 11055]
+2022-09-14/22:11:17		Starting of Training Model Pre processing
+2022-09-14/22:11:27		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:11:27		Got the data from data_loader.py file
+2022-09-14/22:11:27		Starting the preprocessing
+2022-09-14/22:11:27		Successfully separated the of label column and the rest of the data
+2022-09-14/22:11:27		Replace Invalid values with Null
+2022-09-14/22:11:27		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:11:27		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:11:27		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:11:27		End of get_columns_with_zero_std_deviation
+2022-09-14/22:11:27		End of **********Preprocessing***************
+2022-09-14/22:11:27		Start of *********Clustering**************
+2022-09-14/22:11:27		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:11:27		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:11:31		Clustering: Elbow has been plotted
+2022-09-14/22:11:31		Clustering: Creating Clusters
+2022-09-14/22:11:31		Clustering: Clusters created
+2022-09-14/22:11:31		Found input variables with inconsistent numbers of samples: [1137, 11055]
+2022-09-14/22:13:48		Starting of Training Model Pre processing
+2022-09-14/22:13:53		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:13:53		Got the data from data_loader.py file
+2022-09-14/22:13:53		Starting the preprocessing
+2022-09-14/22:13:53		Successfully separated the of label column and the rest of the data
+2022-09-14/22:13:53		Replace Invalid values with Null
+2022-09-14/22:13:53		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:13:53		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:13:53		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:13:53		End of get_columns_with_zero_std_deviation
+2022-09-14/22:13:53		End of **********Preprocessing***************
+2022-09-14/22:13:53		Start of *********Clustering**************
+2022-09-14/22:13:53		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:13:53		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:13:57		Clustering: Elbow has been plotted
+2022-09-14/22:13:57		Clustering: Creating Clusters
+2022-09-14/22:13:57		Clustering: Clusters created
+2022-09-14/22:13:57		Found input variables with inconsistent numbers of samples: [1116, 11055]
+2022-09-14/22:14:58		Starting of Training Model Pre processing
+2022-09-14/22:15:03		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:15:03		Got the data from data_loader.py file
+2022-09-14/22:15:03		Starting the preprocessing
+2022-09-14/22:15:03		Successfully separated the of label column and the rest of the data
+2022-09-14/22:15:03		Replace Invalid values with Null
+2022-09-14/22:15:03		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:15:03		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:15:03		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:15:03		End of get_columns_with_zero_std_deviation
+2022-09-14/22:15:03		End of **********Preprocessing***************
+2022-09-14/22:15:03		Start of *********Clustering**************
+2022-09-14/22:15:03		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:15:03		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:15:07		Clustering: Elbow has been plotted
+2022-09-14/22:15:07		Clustering: Creating Clusters
+2022-09-14/22:15:07		Clustering: Clusters created
+2022-09-14/22:15:07		Found input variables with inconsistent numbers of samples: [1116, 11055]
+2022-09-14/22:46:29		Starting of Training Model Pre processing
+2022-09-14/22:46:41		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:46:41		Got the data from data_loader.py file
+2022-09-14/22:46:41		Starting the preprocessing
+2022-09-14/22:46:41		Successfully separated the of label column and the rest of the data
+2022-09-14/22:46:41		Replace Invalid values with Null
+2022-09-14/22:46:41		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:46:41		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:46:41		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:46:41		End of get_columns_with_zero_std_deviation
+2022-09-14/22:46:41		End of **********Preprocessing***************
+2022-09-14/22:46:41		Start of *********Clustering**************
+2022-09-14/22:46:41		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:46:41		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:46:45		Clustering: Elbow has been plotted
+2022-09-14/22:46:45		Clustering: Creating Clusters
+2022-09-14/22:46:46		Clustering: Clusters created
+2022-09-14/22:46:46		Found input variables with inconsistent numbers of samples: [1116, 11055]
+2022-09-14/22:47:42		Starting of Training Model Pre processing
+2022-09-14/22:47:47		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:47:47		Got the data from data_loader.py file
+2022-09-14/22:47:47		Starting the preprocessing
+2022-09-14/22:47:47		Successfully separated the of label column and the rest of the data
+2022-09-14/22:47:47		Replace Invalid values with Null
+2022-09-14/22:47:47		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:47:47		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:47:47		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:47:47		End of get_columns_with_zero_std_deviation
+2022-09-14/22:47:47		End of **********Preprocessing***************
+2022-09-14/22:47:47		Start of *********Clustering**************
+2022-09-14/22:47:47		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:47:47		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:47:51		Clustering: Elbow has been plotted
+2022-09-14/22:47:51		Clustering: Creating Clusters
+2022-09-14/22:47:51		Clustering: Clusters created
+2022-09-14/22:47:51		Found input variables with inconsistent numbers of samples: [1137, 11055]
+2022-09-14/22:50:25		Starting of Training Model Pre processing
+2022-09-14/22:50:29		Starting of Training Model Pre processing
+2022-09-14/22:50:34		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:50:34		Got the data from data_loader.py file
+2022-09-14/22:50:34		Starting the preprocessing
+2022-09-14/22:50:34		Successfully separated the of label column and the rest of the data
+2022-09-14/22:50:34		Replace Invalid values with Null
+2022-09-14/22:50:34		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:50:34		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:50:34		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:50:34		End of get_columns_with_zero_std_deviation
+2022-09-14/22:50:34		End of **********Preprocessing***************
+2022-09-14/22:50:34		Start of *********Clustering**************
+2022-09-14/22:50:34		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:50:34		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:50:38		Clustering: Elbow has been plotted
+2022-09-14/22:50:38		Clustering: Creating Clusters
+2022-09-14/22:50:38		Clustering: Clusters created
+2022-09-14/22:50:38		Found input variables with inconsistent numbers of samples: [1137, 11055]
+2022-09-14/22:51:44		Starting of Training Model Pre processing
+2022-09-14/22:51:53		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:51:53		Got the data from data_loader.py file
+2022-09-14/22:51:53		Starting the preprocessing
+2022-09-14/22:51:53		Successfully separated the of label column and the rest of the data
+2022-09-14/22:51:53		Replace Invalid values with Null
+2022-09-14/22:51:54		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:51:54		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:51:54		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:51:54		End of get_columns_with_zero_std_deviation
+2022-09-14/22:51:54		End of **********Preprocessing***************
+2022-09-14/22:51:54		Start of *********Clustering**************
+2022-09-14/22:51:54		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:51:54		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:51:57		Clustering: Elbow has been plotted
+2022-09-14/22:51:57		Clustering: Creating Clusters
+2022-09-14/22:51:57		Clustering: Clusters created
+2022-09-14/22:51:57		'Model_Finder' object has no attribute 'file'
+2022-09-14/22:58:42		Starting of Training Model Pre processing
+2022-09-14/22:58:48		Starting of Training Model Pre processing
+2022-09-14/22:58:54		Inside Training Model: Preprocessing_Training method
+2022-09-14/22:58:54		Got the data from data_loader.py file
+2022-09-14/22:58:54		Starting the preprocessing
+2022-09-14/22:58:54		Successfully separated the of label column and the rest of the data
+2022-09-14/22:58:54		Replace Invalid values with Null
+2022-09-14/22:58:54		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/22:58:54		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/22:58:54		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/22:58:54		End of get_columns_with_zero_std_deviation
+2022-09-14/22:58:54		End of **********Preprocessing***************
+2022-09-14/22:58:54		Start of *********Clustering**************
+2022-09-14/22:58:54		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/22:58:54		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/22:58:58		Clustering: Elbow has been plotted
+2022-09-14/22:58:58		Clustering: Creating Clusters
+2022-09-14/22:58:58		Clustering: Clusters created
+2022-09-14/22:58:58		I/O operation on closed file.
+2022-09-14/23:07:14		Starting of Training Model Pre processing
+2022-09-14/23:07:21		Inside Training Model: Preprocessing_Training method
+2022-09-14/23:07:21		Got the data from data_loader.py file
+2022-09-14/23:07:21		Starting the preprocessing
+2022-09-14/23:07:21		Successfully separated the of label column and the rest of the data
+2022-09-14/23:07:21		Replace Invalid values with Null
+2022-09-14/23:07:21		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/23:07:21		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/23:07:21		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/23:07:21		End of get_columns_with_zero_std_deviation
+2022-09-14/23:07:21		End of **********Preprocessing***************
+2022-09-14/23:07:21		Start of *********Clustering**************
+2022-09-14/23:07:21		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/23:07:21		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/23:07:25		Clustering: Elbow has been plotted
+2022-09-14/23:07:25		Clustering: Creating Clusters
+2022-09-14/23:07:25		Clustering: Clusters created
+2022-09-14/23:07:25		I/O operation on closed file.
+2022-09-14/23:16:40		Starting of Training Model Pre processing
+2022-09-14/23:16:46		Starting of Training Model Pre processing
+2022-09-14/23:16:51		Inside Training Model: Preprocessing_Training method
+2022-09-14/23:16:52		Got the data from data_loader.py file
+2022-09-14/23:16:52		Starting the preprocessing
+2022-09-14/23:16:52		Successfully separated the of label column and the rest of the data
+2022-09-14/23:16:52		Replace Invalid values with Null
+2022-09-14/23:16:52		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/23:16:52		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/23:16:52		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/23:16:52		End of get_columns_with_zero_std_deviation
+2022-09-14/23:16:52		End of **********Preprocessing***************
+2022-09-14/23:16:52		Start of *********Clustering**************
+2022-09-14/23:16:52		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/23:16:52		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/23:16:56		Clustering: Elbow has been plotted
+2022-09-14/23:16:56		Clustering: Creating Clusters
+2022-09-14/23:16:56		Clustering: Clusters created
+2022-09-14/23:16:57		
+2022-09-14/23:23:15		Starting of Training Model Pre processing
+2022-09-14/23:23:27		Inside Training Model: Preprocessing_Training method
+2022-09-14/23:23:27		Got the data from data_loader.py file
+2022-09-14/23:23:27		Starting the preprocessing
+2022-09-14/23:23:27		Successfully separated the of label column and the rest of the data
+2022-09-14/23:23:27		Replace Invalid values with Null
+2022-09-14/23:23:27		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/23:23:27		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/23:23:27		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/23:23:27		End of get_columns_with_zero_std_deviation
+2022-09-14/23:23:27		End of **********Preprocessing***************
+2022-09-14/23:23:27		Start of *********Clustering**************
+2022-09-14/23:23:27		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/23:23:27		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/23:23:30		Clustering: Elbow has been plotted
+2022-09-14/23:23:30		Clustering: Creating Clusters
+2022-09-14/23:23:31		Clustering: Clusters created
+2022-09-14/23:23:51		
+2022-09-14/23:42:17		Starting of Training Model Pre processing
+2022-09-14/23:42:22		Inside Training Model: Preprocessing_Training method
+2022-09-14/23:42:22		Got the data from data_loader.py file
+2022-09-14/23:42:22		Starting the preprocessing
+2022-09-14/23:42:23		Successfully separated the of label column and the rest of the data
+2022-09-14/23:42:23		Replace Invalid values with Null
+2022-09-14/23:42:23		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/23:42:23		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/23:42:23		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/23:42:23		End of get_columns_with_zero_std_deviation
+2022-09-14/23:42:23		End of **********Preprocessing***************
+2022-09-14/23:42:23		Start of *********Clustering**************
+2022-09-14/23:42:23		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/23:42:23		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/23:42:27		Clustering: Elbow has been plotted
+2022-09-14/23:42:27		Clustering: Creating Clusters
+2022-09-14/23:42:27		Clustering: Clusters created
+2022-09-14/23:42:59		
+2022-09-14/23:51:29		Starting of Training Model Pre processing
+2022-09-14/23:51:34		Starting of Training Model Pre processing
+2022-09-14/23:51:40		Inside Training Model: Preprocessing_Training method
+2022-09-14/23:51:40		Got the data from data_loader.py file
+2022-09-14/23:51:40		Starting the preprocessing
+2022-09-14/23:51:40		Successfully separated the of label column and the rest of the data
+2022-09-14/23:51:40		Replace Invalid values with Null
+2022-09-14/23:51:40		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/23:51:40		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/23:51:40		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/23:51:40		End of get_columns_with_zero_std_deviation
+2022-09-14/23:51:40		End of **********Preprocessing***************
+2022-09-14/23:51:40		Start of *********Clustering**************
+2022-09-14/23:51:40		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/23:51:40		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/23:51:44		Clustering: Elbow has been plotted
+2022-09-14/23:51:44		Clustering: Creating Clusters
+2022-09-14/23:51:44		Clustering: Clusters created
+2022-09-14/23:52:05		
+2022-09-14/23:59:00		Starting of Training Model Pre processing
+2022-09-14/23:59:11		Inside Training Model: Preprocessing_Training method
+2022-09-14/23:59:11		Got the data from data_loader.py file
+2022-09-14/23:59:11		Starting the preprocessing
+2022-09-14/23:59:11		Successfully separated the of label column and the rest of the data
+2022-09-14/23:59:11		Replace Invalid values with Null
+2022-09-14/23:59:11		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-14/23:59:11		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-14/23:59:11		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-14/23:59:11		End of get_columns_with_zero_std_deviation
+2022-09-14/23:59:11		End of **********Preprocessing***************
+2022-09-14/23:59:11		Start of *********Clustering**************
+2022-09-14/23:59:11		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-14/23:59:11		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-14/23:59:17		Clustering: Elbow has been plotted
+2022-09-14/23:59:17		Clustering: Creating Clusters
+2022-09-14/23:59:17		Clustering: Clusters created
+2022-09-14/23:59:35		
+2022-09-15/00:01:33		Starting of Training Model Pre processing
+2022-09-15/00:01:41		Inside Training Model: Preprocessing_Training method
+2022-09-15/00:01:41		Got the data from data_loader.py file
+2022-09-15/00:01:41		Starting the preprocessing
+2022-09-15/00:01:41		Successfully separated the of label column and the rest of the data
+2022-09-15/00:01:41		Replace Invalid values with Null
+2022-09-15/00:01:41		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-15/00:01:41		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-15/00:01:41		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-15/00:01:41		End of get_columns_with_zero_std_deviation
+2022-09-15/00:01:41		End of **********Preprocessing***************
+2022-09-15/00:01:41		Start of *********Clustering**************
+2022-09-15/00:01:41		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-15/00:01:41		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-15/00:01:45		Clustering: Elbow has been plotted
+2022-09-15/00:01:45		Clustering: Creating Clusters
+2022-09-15/00:01:45		Clustering: Clusters created
+2022-09-15/00:02:07		
+2022-09-15/00:14:42		Starting of Training Model Pre processing
+2022-09-15/00:14:53		Inside Training Model: Preprocessing_Training method
+2022-09-15/00:14:53		Got the data from data_loader.py file
+2022-09-15/00:14:53		Starting the preprocessing
+2022-09-15/00:14:53		Successfully separated the of label column and the rest of the data
+2022-09-15/00:14:53		Replace Invalid values with Null
+2022-09-15/00:14:53		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-15/00:14:53		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-15/00:14:53		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-15/00:14:54		End of get_columns_with_zero_std_deviation
+2022-09-15/00:14:54		End of **********Preprocessing***************
+2022-09-15/00:14:54		Start of *********Clustering**************
+2022-09-15/00:14:54		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-15/00:14:54		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-15/00:14:56		Clustering: Elbow has been plotted
+2022-09-15/00:14:56		Clustering: Creating Clusters
+2022-09-15/00:14:56		Clustering: Clusters created
+2022-09-15/00:39:41		Successful End of Training
+2022-09-18/23:13:21		Starting of Training Model Pre processing
+2022-09-18/23:13:21		Inside Training Model: Preprocessing_Training method
+2022-09-18/23:13:21		Got the data from data_loader.py file
+2022-09-18/23:13:21		Starting the preprocessing
+2022-09-18/23:13:21		Successfully separated the of label column and the rest of the data
+2022-09-18/23:13:21		Replace Invalid values with Null
+2022-09-18/23:13:21		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-18/23:13:21		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-18/23:13:21		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-18/23:51:14		Starting of Training Model Pre processing
+2022-09-18/23:51:14		Inside Training Model: Preprocessing_Training method
+2022-09-18/23:51:14		Got the data from data_loader.py file
+2022-09-18/23:51:14		Starting the preprocessing
+2022-09-18/23:51:14		Successfully separated the of label column and the rest of the data
+2022-09-18/23:51:14		Replace Invalid values with Null
+2022-09-18/23:51:14		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-18/23:51:14		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-18/23:51:14		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-18/23:51:14		End of get_columns_with_zero_std_deviation
+2022-09-18/23:51:14		End of **********Preprocessing***************
+2022-09-18/23:51:14		Start of *********Clustering**************
+2022-09-18/23:51:14		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-18/23:51:14		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-18/23:51:19		Clustering: Elbow has been plotted
+2022-09-18/23:51:19		Clustering: Creating Clusters
+2022-09-18/23:51:19		Clustering: Clusters created
+2022-09-19/00:12:48		Successful End of Training
+2022-09-20/20:41:10		Starting of Training Model Pre processing
+2022-09-20/20:41:10		Inside Training Model: Preprocessing_Training method
+2022-09-20/20:41:10		Got the data from data_loader.py file
+2022-09-20/20:41:10		Starting the preprocessing
+2022-09-20/20:41:10		Successfully separated the of label column and the rest of the data
+2022-09-20/20:41:10		Replace Invalid values with Null
+2022-09-20/20:41:10		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/20:41:10		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/20:41:10		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/20:41:10		End of get_columns_with_zero_std_deviation
+2022-09-20/20:41:10		End of **********Preprocessing***************
+2022-09-20/20:41:10		Start of *********Clustering**************
+2022-09-20/20:41:10		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/20:41:10		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/20:42:00		Clustering: Elbow has been plotted
+2022-09-20/20:42:00		Clustering: Creating Clusters
+2022-09-20/20:42:00		Clustering: Clusters created
+2022-09-20/21:00:51		Successful End of Training
+2022-09-20/21:12:19		Starting of Training Model Pre processing
+2022-09-20/21:12:19		Inside Training Model: Preprocessing_Training method
+2022-09-20/21:12:19		Got the data from data_loader.py file
+2022-09-20/21:12:19		Starting the preprocessing
+2022-09-20/21:12:19		Successfully separated the of label column and the rest of the data
+2022-09-20/21:12:19		Replace Invalid values with Null
+2022-09-20/21:12:19		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/21:12:19		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/21:12:19		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/21:30:25		Starting of Training Model Pre processing
+2022-09-20/21:30:25		Inside Training Model: Preprocessing_Training method
+2022-09-20/21:30:25		Got the data from data_loader.py file
+2022-09-20/21:30:25		Starting the preprocessing
+2022-09-20/21:30:25		Successfully separated the of label column and the rest of the data
+2022-09-20/21:30:25		Replace Invalid values with Null
+2022-09-20/21:30:25		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/21:30:25		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/21:30:25		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/21:30:25		End of get_columns_with_zero_std_deviation
+2022-09-20/21:30:25		End of **********Preprocessing***************
+2022-09-20/21:30:25		Start of *********Clustering**************
+2022-09-20/21:30:25		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/21:30:25		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/21:30:33		Clustering: Elbow has been plotted
+2022-09-20/21:30:33		Clustering: Creating Clusters
+2022-09-20/21:30:33		Clustering: Clusters created
+2022-09-20/21:49:27		Successful End of Training
+2022-09-20/21:53:25		Starting of Training Model Pre processing
+2022-09-20/21:53:25		Inside Training Model: Preprocessing_Training method
+2022-09-20/21:53:25		Got the data from data_loader.py file
+2022-09-20/21:53:25		Starting the preprocessing
+2022-09-20/21:53:25		Successfully separated the of label column and the rest of the data
+2022-09-20/21:53:25		Replace Invalid values with Null
+2022-09-20/21:53:25		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/21:53:25		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/21:53:25		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/21:53:25		End of get_columns_with_zero_std_deviation
+2022-09-20/21:53:25		End of **********Preprocessing***************
+2022-09-20/21:53:25		Start of *********Clustering**************
+2022-09-20/21:53:25		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/21:53:25		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/21:53:32		Clustering: Elbow has been plotted
+2022-09-20/21:53:32		Clustering: Creating Clusters
+2022-09-20/21:53:32		Clustering: Clusters created
+2022-09-20/22:19:07		Successful End of Training
+2022-09-20/23:21:28		Starting of Training Model Pre processing
+2022-09-20/23:21:28		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:21:28		Got the data from data_loader.py file
+2022-09-20/23:21:28		Starting the preprocessing
+2022-09-20/23:21:28		Successfully separated the of label column and the rest of the data
+2022-09-20/23:21:28		Replace Invalid values with Null
+2022-09-20/23:21:28		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:21:28		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:21:28		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:21:29		End of get_columns_with_zero_std_deviation
+2022-09-20/23:21:29		End of **********Preprocessing***************
+2022-09-20/23:21:29		Start of *********Clustering**************
+2022-09-20/23:21:29		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:21:29		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:21:37		Clustering: Elbow has been plotted
+2022-09-20/23:21:37		Clustering: Creating Clusters
+2022-09-20/23:21:38		Clustering: Clusters created
+2022-09-20/23:21:38		Successful End of Training
+2022-09-20/23:26:49		Starting of Training Model Pre processing
+2022-09-20/23:26:49		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:26:49		Got the data from data_loader.py file
+2022-09-20/23:26:49		Starting the preprocessing
+2022-09-20/23:26:49		Successfully separated the of label column and the rest of the data
+2022-09-20/23:26:49		Replace Invalid values with Null
+2022-09-20/23:26:49		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:26:49		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:26:49		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:26:50		End of get_columns_with_zero_std_deviation
+2022-09-20/23:26:50		End of **********Preprocessing***************
+2022-09-20/23:26:50		Start of *********Clustering**************
+2022-09-20/23:26:50		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:26:50		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:28:01		Clustering: Elbow has been plotted
+2022-09-20/23:28:01		Clustering: Creating Clusters
+2022-09-20/23:28:01		Clustering: Clusters created
+2022-09-20/23:28:01		Successful End of Training
+2022-09-20/23:30:58		Starting of Training Model Pre processing
+2022-09-20/23:30:58		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:30:58		Got the data from data_loader.py file
+2022-09-20/23:30:58		Starting the preprocessing
+2022-09-20/23:30:58		Successfully separated the of label column and the rest of the data
+2022-09-20/23:30:58		Replace Invalid values with Null
+2022-09-20/23:30:58		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:30:58		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:30:58		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:30:58		End of get_columns_with_zero_std_deviation
+2022-09-20/23:30:58		End of **********Preprocessing***************
+2022-09-20/23:30:58		Start of *********Clustering**************
+2022-09-20/23:30:58		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:30:58		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:31:10		
+2022-09-20/23:34:08		Starting of Training Model Pre processing
+2022-09-20/23:34:08		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:34:08		Got the data from data_loader.py file
+2022-09-20/23:34:08		Starting the preprocessing
+2022-09-20/23:34:08		Successfully separated the of label column and the rest of the data
+2022-09-20/23:34:08		Replace Invalid values with Null
+2022-09-20/23:34:08		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:34:08		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:34:08		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:34:08		End of get_columns_with_zero_std_deviation
+2022-09-20/23:34:08		End of **********Preprocessing***************
+2022-09-20/23:34:08		Start of *********Clustering**************
+2022-09-20/23:34:08		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:34:08		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:34:18		Clustering: Elbow has been plotted
+2022-09-20/23:34:18		Clustering: Creating Clusters
+2022-09-20/23:34:18		Clustering: Clusters created
+2022-09-20/23:34:18		Successful End of Training
+2022-09-20/23:35:17		Starting of Training Model Pre processing
+2022-09-20/23:35:17		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:35:17		Got the data from data_loader.py file
+2022-09-20/23:35:17		Starting the preprocessing
+2022-09-20/23:35:17		Successfully separated the of label column and the rest of the data
+2022-09-20/23:35:17		Replace Invalid values with Null
+2022-09-20/23:35:17		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:35:17		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:35:17		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:35:18		End of get_columns_with_zero_std_deviation
+2022-09-20/23:35:18		End of **********Preprocessing***************
+2022-09-20/23:35:18		Start of *********Clustering**************
+2022-09-20/23:35:18		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:35:18		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:35:26		Clustering: Elbow has been plotted
+2022-09-20/23:35:26		Clustering: Creating Clusters
+2022-09-20/23:35:26		Clustering: Clusters created
+2022-09-20/23:35:26		Successful End of Training
+2022-09-20/23:36:48		Starting of Training Model Pre processing
+2022-09-20/23:36:48		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:36:48		Got the data from data_loader.py file
+2022-09-20/23:36:48		Starting the preprocessing
+2022-09-20/23:36:48		Successfully separated the of label column and the rest of the data
+2022-09-20/23:36:48		Replace Invalid values with Null
+2022-09-20/23:36:48		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:36:48		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:36:48		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:36:48		End of get_columns_with_zero_std_deviation
+2022-09-20/23:36:48		End of **********Preprocessing***************
+2022-09-20/23:36:48		Start of *********Clustering**************
+2022-09-20/23:36:48		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:36:48		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:36:57		Clustering: Elbow has been plotted
+2022-09-20/23:36:57		Clustering: Creating Clusters
+2022-09-20/23:36:58		Clustering: Clusters created
+2022-09-20/23:36:58		Successful End of Training
+2022-09-20/23:38:33		Starting of Training Model Pre processing
+2022-09-20/23:38:33		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:38:33		Got the data from data_loader.py file
+2022-09-20/23:38:33		Starting the preprocessing
+2022-09-20/23:38:33		Successfully separated the of label column and the rest of the data
+2022-09-20/23:38:33		Replace Invalid values with Null
+2022-09-20/23:38:33		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:38:33		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:38:33		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:38:33		End of get_columns_with_zero_std_deviation
+2022-09-20/23:38:33		End of **********Preprocessing***************
+2022-09-20/23:38:33		Start of *********Clustering**************
+2022-09-20/23:38:33		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:38:33		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:38:41		Clustering: Elbow has been plotted
+2022-09-20/23:38:41		Clustering: Creating Clusters
+2022-09-20/23:38:41		Clustering: Clusters created
+2022-09-20/23:38:41		Successful End of Training
+2022-09-20/23:41:41		Starting of Training Model Pre processing
+2022-09-20/23:41:41		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:41:41		Got the data from data_loader.py file
+2022-09-20/23:41:41		Starting the preprocessing
+2022-09-20/23:41:41		Successfully separated the of label column and the rest of the data
+2022-09-20/23:41:41		Replace Invalid values with Null
+2022-09-20/23:41:41		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:41:41		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:41:41		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-20/23:41:41		End of get_columns_with_zero_std_deviation
+2022-09-20/23:41:41		End of **********Preprocessing***************
+2022-09-20/23:41:41		Start of *********Clustering**************
+2022-09-20/23:41:41		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-20/23:41:41		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-20/23:41:52		Clustering: Elbow has been plotted
+2022-09-20/23:41:52		Clustering: Creating Clusters
+2022-09-20/23:41:52		Clustering: Clusters created
+2022-09-20/23:41:52		Successful End of Training
+2022-09-20/23:43:41		Starting of Training Model Pre processing
+2022-09-20/23:43:41		Inside Training Model: Preprocessing_Training method
+2022-09-20/23:43:41		Got the data from data_loader.py file
+2022-09-20/23:43:41		Starting the preprocessing
+2022-09-20/23:43:41		Successfully separated the of label column and the rest of the data
+2022-09-20/23:43:41		Replace Invalid values with Null
+2022-09-20/23:43:41		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-20/23:43:41		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-20/23:43:41		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-21/09:15:51		Starting of Training Model Pre processing
+2022-09-21/09:15:51		Inside Training Model: Preprocessing_Training method
+2022-09-21/09:15:51		Got the data from data_loader.py file
+2022-09-21/09:15:51		Starting the preprocessing
+2022-09-21/09:15:51		Successfully separated the of label column and the rest of the data
+2022-09-21/09:15:51		Replace Invalid values with Null
+2022-09-21/09:15:51		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-21/09:15:51		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-21/09:15:51		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-21/10:02:18		Starting of Training Model Pre processing
+2022-09-21/10:02:18		Inside Training Model: Preprocessing_Training method
+2022-09-21/10:02:18		Got the data from data_loader.py file
+2022-09-21/10:02:18		Starting the preprocessing
+2022-09-21/10:02:18		Successfully separated the of label column and the rest of the data
+2022-09-21/10:02:19		Replace Invalid values with Null
+2022-09-21/10:02:19		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-21/10:02:19		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-21/10:02:19		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-21/10:02:19		End of get_columns_with_zero_std_deviation
+2022-09-21/10:02:19		End of **********Preprocessing***************
+2022-09-21/10:02:19		Start of *********Clustering**************
+2022-09-21/10:02:19		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-21/10:02:19		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-21/10:02:39		
+2022-09-21/10:03:58		Starting of Training Model Pre processing
+2022-09-21/10:03:58		Inside Training Model: Preprocessing_Training method
+2022-09-21/10:03:58		Got the data from data_loader.py file
+2022-09-21/10:03:58		Starting the preprocessing
+2022-09-21/10:03:58		Successfully separated the of label column and the rest of the data
+2022-09-21/10:03:58		Replace Invalid values with Null
+2022-09-21/10:03:58		Completed the validation of: If null value present, Check the Preprocessing.log for the details
+2022-09-21/10:03:58		No need to go inside impute_missing_values class, the data has no missing values
+2022-09-21/10:03:58		Check if columns with 0 standard deviation are present: get_columns_with_zero_std_deviation
+2022-09-21/10:03:59		End of get_columns_with_zero_std_deviation
+2022-09-21/10:03:59		End of **********Preprocessing***************
+2022-09-21/10:03:59		Start of *********Clustering**************
+2022-09-21/10:03:59		Clustering KMEANS start: Calling KMeansClustering class
+2022-09-21/10:03:59		Clustering KMEANS End-Sucessfully called KMeansClustering class
+2022-09-21/10:04:09		Clustering: Elbow has been plotted
+2022-09-21/10:04:09		Clustering: Creating Clusters
+2022-09-21/10:04:10		Clustering: Clusters created
+2022-09-21/13:28:26		Successful End of Training

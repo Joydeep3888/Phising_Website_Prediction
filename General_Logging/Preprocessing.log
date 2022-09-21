@@ -1,0 +1,1378 @@
+2022-09-04/18:55:10		starting with preprocessing
+2022-09-04/18:57:02		starting with preprocessing
+2022-09-04/18:57:02		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::"['Results'] not found in axis"
+2022-09-04/18:57:02		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-04/18:58:37		starting with preprocessing
+2022-09-04/18:58:37		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::"['Results'] not found in axis"
+2022-09-04/18:58:37		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-04/18:59:06		starting with preprocessing
+2022-09-04/18:59:06		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::"['Results'] not found in axis"
+2022-09-04/18:59:06		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-04/19:01:00		starting with preprocessing
+2022-09-04/19:01:00		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::"['Results'] not found in axis"
+2022-09-04/19:01:00		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-04/19:01:05		starting with preprocessing
+2022-09-04/19:01:05		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::"['Results'] not found in axis"
+2022-09-04/19:01:05		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-04/19:02:16		starting with preprocessing
+2022-09-04/19:02:16		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::"['Results'] not found in axis"
+2022-09-04/19:02:16		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-04/19:02:54		starting with preprocessing
+2022-09-04/19:02:54		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-09-04/23:45:38		starting with preprocessing
+2022-09-04/23:45:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-09-04/23:59:35		starting with preprocessing
+2022-09-04/23:59:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-09-04/23:59:35		Entered the separate_label_feature method of the Preprocessor class
+2022-09-04/23:59:35		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  ::"['Result'] not found in axis"
+2022-09-04/23:59:35		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-05/00:03:32		starting with preprocessing
+2022-09-05/00:03:32		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-09-05/00:03:32		Entered the separate_label_feature method of the Preprocessor class
+2022-09-05/00:03:32		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  ::"['Result'] not found in axis"
+2022-09-05/00:03:32		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-05/00:15:24		starting with preprocessing
+2022-09-05/00:15:24		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::'self.columns'
+2022-09-05/00:15:24		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-05/00:18:24		starting with preprocessing
+2022-09-05/00:18:24		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::'self.columns'
+2022-09-05/00:18:24		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-05/00:18:37		starting with preprocessing
+2022-09-05/00:18:37		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::'self.columns'
+2022-09-05/00:18:37		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-05/00:20:45		starting with preprocessing
+2022-09-05/00:20:45		Exception occured in remove_columns method of the Preprocessor class. Exception message:  ::'self.columns'
+2022-09-05/00:20:45		Column removal Unsuccessful. Exited the remove_columns method of the Preprocessor class
+2022-09-05/00:21:18		starting with preprocessing
+2022-09-05/00:21:18		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-09-05/00:26:26		starting with preprocessing
+2022-09-05/00:26:26		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/00:57:39		starting with preprocessing
+2022-09-05/00:57:39		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/20:34:51		starting with preprocessing
+2022-09-05/20:34:51		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/20:53:55		starting with preprocessing
+2022-09-05/20:53:55		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/20:53:55		Entered the is_null_present method of the Preprocessor class
+2022-09-05/20:53:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/20:55:49		starting with preprocessing
+2022-09-05/20:55:49		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/20:55:49		Entered the is_null_present method of the Preprocessor class
+2022-09-05/20:55:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:04:31		starting with preprocessing
+2022-09-05/23:04:31		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:04:31		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:04:31		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:07:00		starting with preprocessing
+2022-09-05/23:07:00		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:07:00		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:07:00		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:09:11		starting with preprocessing
+2022-09-05/23:09:11		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:09:11		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:09:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:09:11		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:11:04		starting with preprocessing
+2022-09-05/23:11:04		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:11:04		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:11:04		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:11:04		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:13:50		starting with preprocessing
+2022-09-05/23:13:50		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:13:50		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:13:50		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:13:50		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:13:50		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:15:19		starting with preprocessing
+2022-09-05/23:15:19		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:15:19		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:15:19		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:15:19		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:15:19		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:15:49		starting with preprocessing
+2022-09-05/23:15:49		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-05/23:15:49		Entered the is_null_present method of the Preprocessor class
+2022-09-05/23:15:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-05/23:15:49		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-05/23:15:49		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:32:58		starting with preprocessing
+2022-09-07/00:32:58		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:32:58		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:32:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:32:58		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:32:58		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:36:02		starting with preprocessing
+2022-09-07/00:36:02		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:36:02		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:36:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:36:02		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:36:02		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:38:35		starting with preprocessing
+2022-09-07/00:38:35		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:38:35		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:38:35		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:38:35		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:38:35		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:40:17		starting with preprocessing
+2022-09-07/00:40:17		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:40:17		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:40:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:40:17		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:40:17		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:41:38		starting with preprocessing
+2022-09-07/00:41:38		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:41:38		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:41:38		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:41:38		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:41:38		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:43:11		starting with preprocessing
+2022-09-07/00:43:11		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:43:11		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:43:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:43:11		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:43:11		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:44:41		starting with preprocessing
+2022-09-07/00:44:42		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:44:42		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:44:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:44:42		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:44:42		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:45:52		starting with preprocessing
+2022-09-07/00:45:52		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:45:52		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:45:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:45:52		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:45:53		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:46:46		starting with preprocessing
+2022-09-07/00:46:46		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:46:46		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:46:46		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:46:46		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:46:46		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:47:31		starting with preprocessing
+2022-09-07/00:47:31		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:47:31		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:47:31		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:47:31		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:47:31		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:50:17		starting with preprocessing
+2022-09-07/00:50:17		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:50:17		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:50:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:50:17		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:50:17		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:52:09		starting with preprocessing
+2022-09-07/00:52:09		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-07/00:52:09		Entered the is_null_present method of the Preprocessor class
+2022-09-07/00:52:09		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-07/00:52:09		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-07/00:52:09		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:43:03		starting with preprocessing
+2022-09-08/00:43:03		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/00:43:03		Entered the is_null_present method of the Preprocessor class
+2022-09-08/00:43:03		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/00:43:03		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:43:03		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:48:28		starting with preprocessing
+2022-09-08/00:48:28		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/00:48:28		Entered the is_null_present method of the Preprocessor class
+2022-09-08/00:48:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/00:48:28		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:48:28		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:50:30		starting with preprocessing
+2022-09-08/00:50:30		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/00:50:30		Entered the is_null_present method of the Preprocessor class
+2022-09-08/00:50:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/00:50:30		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:50:30		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:53:41		starting with preprocessing
+2022-09-08/00:53:41		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/00:53:41		Entered the is_null_present method of the Preprocessor class
+2022-09-08/00:53:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/00:53:41		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:53:41		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:58:40		starting with preprocessing
+2022-09-08/00:58:40		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/00:58:40		Entered the is_null_present method of the Preprocessor class
+2022-09-08/00:58:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/00:58:40		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/00:58:40		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/01:01:16		starting with preprocessing
+2022-09-08/01:01:16		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/01:01:16		Entered the is_null_present method of the Preprocessor class
+2022-09-08/01:01:16		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/01:01:16		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/01:01:16		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/01:04:26		starting with preprocessing
+2022-09-08/01:04:26		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-08/01:04:26		Entered the is_null_present method of the Preprocessor class
+2022-09-08/01:04:26		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-08/01:04:26		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-08/01:04:26		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-13/00:00:56		starting with preprocessing
+2022-09-13/00:00:56		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-13/00:00:56		Entered the is_null_present method of the Preprocessor class
+2022-09-13/00:00:56		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-13/00:00:56		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-13/00:00:56		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-13/01:53:05		starting with preprocessing
+2022-09-13/01:53:05		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-13/01:53:05		Entered the is_null_present method of the Preprocessor class
+2022-09-13/01:53:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-13/01:53:05		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-13/01:53:05		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/21:50:11		starting with preprocessing
+2022-09-14/21:50:11		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class        Result
+0          -1
+1          -1
+2          -1
+3          -1
+4           1
+...       ...
+11050       1
+11051      -1
+11052      -1
+11053      -1
+11054      -1
+
+[11055 rows x 1 columns]::
+2022-09-14/21:50:11		Entered the is_null_present method of the Preprocessor class
+2022-09-14/21:50:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/21:50:11		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/21:50:11		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/21:56:36		starting with preprocessing
+2022-09-14/21:56:58		starting with preprocessing
+2022-09-14/21:57:16		starting with preprocessing
+2022-09-14/21:58:49		starting with preprocessing
+2022-09-14/21:58:49		Exception occured in get_useful_data_label_data method of the Preprocessor class. Exception message:  ::'Preprocessor' object has no attribute 'Y'
+2022-09-14/21:58:49		Column removal Unsuccessful. Exited the get_useful_data_label_data method of the Preprocessor class
+2022-09-14/22:03:06		starting with preprocessing
+2022-09-14/22:03:06		Exception occured in get_useful_data_label_data method of the Preprocessor class. Exception message:  ::'Preprocessor' object has no attribute 'columns'
+2022-09-14/22:03:06		Column removal Unsuccessful. Exited the get_useful_data_label_data method of the Preprocessor class
+2022-09-14/22:04:04		starting with preprocessing
+2022-09-14/22:04:04		Exception occured in get_useful_data_label_data method of the Preprocessor class. Exception message:  ::'Preprocessor' object has no attribute 'columns'
+2022-09-14/22:04:04		Column removal Unsuccessful. Exited the get_useful_data_label_data method of the Preprocessor class
+2022-09-14/22:06:55		starting with preprocessing
+2022-09-14/22:06:55		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:06:55		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:06:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:06:55		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:06:55		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:10:09		starting with preprocessing
+2022-09-14/22:10:09		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:10:09		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:10:09		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:10:09		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:10:09		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:11:27		starting with preprocessing
+2022-09-14/22:11:27		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:11:27		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:11:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:11:27		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:11:27		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:13:53		starting with preprocessing
+2022-09-14/22:13:53		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:13:53		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:13:53		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:13:53		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:13:53		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:15:03		starting with preprocessing
+2022-09-14/22:15:03		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:15:03		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:15:03		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:15:03		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:15:03		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:46:41		starting with preprocessing
+2022-09-14/22:46:41		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:46:41		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:46:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:46:41		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:46:41		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:47:47		starting with preprocessing
+2022-09-14/22:47:47		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:47:47		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:47:47		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:47:47		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:47:47		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:50:34		starting with preprocessing
+2022-09-14/22:50:34		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:50:34		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:50:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:50:34		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:50:34		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:51:53		starting with preprocessing
+2022-09-14/22:51:53		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:51:54		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:51:54		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:51:54		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:51:54		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:58:54		starting with preprocessing
+2022-09-14/22:58:54		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/22:58:54		Entered the is_null_present method of the Preprocessor class
+2022-09-14/22:58:54		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/22:58:54		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/22:58:54		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:07:21		starting with preprocessing
+2022-09-14/23:07:21		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/23:07:21		Entered the is_null_present method of the Preprocessor class
+2022-09-14/23:07:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/23:07:21		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:07:21		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:16:52		starting with preprocessing
+2022-09-14/23:16:52		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/23:16:52		Entered the is_null_present method of the Preprocessor class
+2022-09-14/23:16:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/23:16:52		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:16:52		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:23:27		starting with preprocessing
+2022-09-14/23:23:27		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/23:23:27		Entered the is_null_present method of the Preprocessor class
+2022-09-14/23:23:27		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/23:23:27		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:23:27		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:42:23		starting with preprocessing
+2022-09-14/23:42:23		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/23:42:23		Entered the is_null_present method of the Preprocessor class
+2022-09-14/23:42:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/23:42:23		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:42:23		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:51:40		starting with preprocessing
+2022-09-14/23:51:40		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/23:51:40		Entered the is_null_present method of the Preprocessor class
+2022-09-14/23:51:40		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/23:51:40		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:51:40		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:59:11		starting with preprocessing
+2022-09-14/23:59:11		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-14/23:59:11		Entered the is_null_present method of the Preprocessor class
+2022-09-14/23:59:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-14/23:59:11		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-14/23:59:11		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-15/00:01:41		starting with preprocessing
+2022-09-15/00:01:41		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-15/00:01:41		Entered the is_null_present method of the Preprocessor class
+2022-09-15/00:01:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-15/00:01:41		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-15/00:01:41		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-15/00:14:53		starting with preprocessing
+2022-09-15/00:14:53		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-15/00:14:53		Entered the is_null_present method of the Preprocessor class
+2022-09-15/00:14:53		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-15/00:14:53		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-15/00:14:54		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-18/00:45:47		starting with preprocessing
+2022-09-18/00:45:47		Entered the is_null_present method of the Preprocessor class
+2022-09-18/00:51:08		starting with preprocessing
+2022-09-18/00:57:40		starting with preprocessing
+2022-09-18/00:57:40		Entered the is_null_present method of the Preprocessor class
+2022-09-18/00:59:31		starting with preprocessing
+2022-09-18/00:59:31		Entered the is_null_present method of the Preprocessor class
+2022-09-18/00:59:53		starting with preprocessing
+2022-09-18/00:59:53		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:02:05		starting with preprocessing
+2022-09-18/01:02:05		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:02:05		Exception occured in is_null_present method of the Preprocessor class. Exception message: 'Data_Getter_Pred' object has no attribute 'isna'::
+2022-09-18/01:02:05		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:05:42		starting with preprocessing
+2022-09-18/01:05:42		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:05:42		Exception occured in is_null_present method of the Preprocessor class. Exception message: 'Data_Getter_Pred' object has no attribute 'isna'::
+2022-09-18/01:05:42		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:15:05		starting with preprocessing
+2022-09-18/01:15:05		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:15:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:18:52		starting with preprocessing
+2022-09-18/01:18:52		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:18:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:20:03		starting with preprocessing
+2022-09-18/01:20:03		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:20:03		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:20:56		starting with preprocessing
+2022-09-18/01:20:56		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:20:56		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:21:53		starting with preprocessing
+2022-09-18/01:21:53		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:21:53		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:25:37		starting with preprocessing
+2022-09-18/01:25:37		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:25:37		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:30:48		starting with preprocessing
+2022-09-18/01:30:48		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:30:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:31:48		starting with preprocessing
+2022-09-18/01:31:48		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:31:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:35:18		starting with preprocessing
+2022-09-18/01:35:18		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:35:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:36:01		starting with preprocessing
+2022-09-18/01:36:01		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:36:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:37:34		starting with preprocessing
+2022-09-18/01:37:34		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:37:34		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:43:11		starting with preprocessing
+2022-09-18/01:43:11		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:43:11		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:45:14		starting with preprocessing
+2022-09-18/01:45:14		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:45:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/01:52:36		starting with preprocessing
+2022-09-18/01:52:36		Entered the is_null_present method of the Preprocessor class
+2022-09-18/01:52:36		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/22:43:30		starting with preprocessing
+2022-09-18/22:43:30		Entered the is_null_present method of the Preprocessor class
+2022-09-18/22:43:30		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/23:13:21		starting with preprocessing
+2022-09-18/23:13:21		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-18/23:13:21		Entered the is_null_present method of the Preprocessor class
+2022-09-18/23:13:21		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/23:13:21		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-18/23:13:21		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-18/23:51:14		starting with preprocessing
+2022-09-18/23:51:14		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-18/23:51:14		Entered the is_null_present method of the Preprocessor class
+2022-09-18/23:51:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-18/23:51:14		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-18/23:51:14		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-19/22:36:55		starting with preprocessing
+2022-09-19/22:36:55		Entered the is_null_present method of the Preprocessor class
+2022-09-19/22:36:55		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/17:52:24		starting with preprocessing
+2022-09-20/17:52:24		Entered the is_null_present method of the Preprocessor class
+2022-09-20/17:52:24		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/19:44:17		starting with preprocessing
+2022-09-20/19:44:17		Entered the is_null_present method of the Preprocessor class
+2022-09-20/19:44:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/19:47:14		starting with preprocessing
+2022-09-20/19:47:14		Entered the is_null_present method of the Preprocessor class
+2022-09-20/19:47:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/19:53:59		starting with preprocessing
+2022-09-20/19:53:59		Entered the is_null_present method of the Preprocessor class
+2022-09-20/19:53:59		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/19:56:59		starting with preprocessing
+2022-09-20/19:56:59		Entered the is_null_present method of the Preprocessor class
+2022-09-20/19:56:59		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/20:34:18		starting with preprocessing
+2022-09-20/20:34:18		Entered the is_null_present method of the Preprocessor class
+2022-09-20/20:34:18		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/20:41:10		starting with preprocessing
+2022-09-20/20:41:10		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-20/20:41:10		Entered the is_null_present method of the Preprocessor class
+2022-09-20/20:41:10		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/20:41:10		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/20:41:10		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/21:12:19		starting with preprocessing
+2022-09-20/21:12:19		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-20/21:12:19		Entered the is_null_present method of the Preprocessor class
+2022-09-20/21:12:19		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/21:12:19		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/21:12:19		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/21:30:25		starting with preprocessing
+2022-09-20/21:30:25		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-20/21:30:25		Entered the is_null_present method of the Preprocessor class
+2022-09-20/21:30:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/21:30:25		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/21:30:25		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/21:53:25		starting with preprocessing
+2022-09-20/21:53:25		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+11050    1
+11051   -1
+11052   -1
+11053   -1
+11054   -1
+Name: Result, Length: 11055, dtype: int64::
+2022-09-20/21:53:25		Entered the is_null_present method of the Preprocessor class
+2022-09-20/21:53:25		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/21:53:25		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/21:53:25		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:21:28		starting with preprocessing
+2022-09-20/23:21:28		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+22105    1
+22106   -1
+22107   -1
+22108   -1
+22109   -1
+Name: Result, Length: 22110, dtype: int64::
+2022-09-20/23:21:28		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:21:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:21:28		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:21:28		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:26:49		starting with preprocessing
+2022-09-20/23:26:49		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+33160    1
+33161   -1
+33162   -1
+33163   -1
+33164   -1
+Name: Result, Length: 33165, dtype: int64::
+2022-09-20/23:26:49		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:26:49		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:26:49		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:26:50		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:30:58		starting with preprocessing
+2022-09-20/23:30:58		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:30:58		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:30:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:30:58		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:30:58		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:34:08		starting with preprocessing
+2022-09-20/23:34:08		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:34:08		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:34:08		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:34:08		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:34:08		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:35:17		starting with preprocessing
+2022-09-20/23:35:17		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:35:17		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:35:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:35:17		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:35:18		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:36:48		starting with preprocessing
+2022-09-20/23:36:48		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:36:48		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:36:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:36:48		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:36:48		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:38:33		starting with preprocessing
+2022-09-20/23:38:33		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:38:33		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:38:33		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:38:33		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:38:33		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:41:41		starting with preprocessing
+2022-09-20/23:41:41		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:41:41		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:41:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:41:41		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:41:41		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:43:41		starting with preprocessing
+2022-09-20/23:43:41		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-20/23:43:41		Entered the is_null_present method of the Preprocessor class
+2022-09-20/23:43:41		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-20/23:43:41		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-20/23:43:42		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-21/09:15:51		starting with preprocessing
+2022-09-21/09:15:51		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-21/09:15:51		Entered the is_null_present method of the Preprocessor class
+2022-09-21/09:15:51		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-21/09:15:51		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-21/09:15:52		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-21/10:02:18		starting with preprocessing
+2022-09-21/10:02:18		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-21/10:02:19		Entered the is_null_present method of the Preprocessor class
+2022-09-21/10:02:19		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-21/10:02:19		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-21/10:02:19		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-21/10:03:58		starting with preprocessing
+2022-09-21/10:03:58		Successful separated target column and the actual data.Exited the get_useful_data_label_data method of the Preprocessor class 0       -1
+1       -1
+2       -1
+3       -1
+4        1
+        ..
+44215    1
+44216   -1
+44217   -1
+44218   -1
+44219   -1
+Name: Result, Length: 44220, dtype: int64::
+2022-09-21/10:03:58		Entered the is_null_present method of the Preprocessor class
+2022-09-21/10:03:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-21/10:03:58		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-21/10:03:59		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class

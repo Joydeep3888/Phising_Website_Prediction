@@ -1,0 +1,307 @@
+2022-09-03/18:50:26		Entered the get_data_from_source method of the Data_Getter class
+2022-09-03/18:50:26		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 13] Permission denied: 'C:\\Users\\hp\\OneDrive\\Desktop\\ineuron\\Phising_Website_Prediction\\Training_File_from_DB/'::
+2022-09-03/18:50:26		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-09-03/18:52:55		Entered the get_data_from_source method of the Data_Getter class
+2022-09-03/18:52:55		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 13] Permission denied: 'C:\\Users\\hp\\OneDrive\\Desktop\\ineuron\\Phising_Website_Prediction\\Training_File_from_DB/'::
+2022-09-03/18:54:29		Entered the get_data_from_source method of the Data_Getter class
+2022-09-03/18:54:29		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 13] Permission denied: 'C:\\Users\\hp\\OneDrive\\Desktop\\ineuron\\Phising_Website_Prediction\\Training_File_from_DB'::
+2022-09-03/22:19:37		Starting data loading Training
+2022-09-03/22:19:43		Entered the get_data_from_source method of the Data_Getter class
+2022-09-03/22:19:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:45:32		Starting data loading Training
+2022-09-04/18:45:32		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:45:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:46:12		Starting data loading Training
+2022-09-04/18:46:12		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:46:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:46:42		Starting data loading Training
+2022-09-04/18:46:42		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:46:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:48:45		Starting data loading Training
+2022-09-04/18:48:45		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:48:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:50:56		Starting data loading Training
+2022-09-04/18:50:56		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:50:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:53:02		Starting data loading Training
+2022-09-04/18:53:02		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:53:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:54:07		Starting data loading Training
+2022-09-04/18:54:07		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:54:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:55:10		Starting data loading Training
+2022-09-04/18:55:10		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:55:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:57:02		Starting data loading Training
+2022-09-04/18:57:02		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:57:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:58:37		Starting data loading Training
+2022-09-04/18:58:37		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:58:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/18:59:06		Starting data loading Training
+2022-09-04/18:59:06		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/18:59:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/19:01:00		Starting data loading Training
+2022-09-04/19:01:00		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/19:01:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/19:01:05		Starting data loading Training
+2022-09-04/19:01:05		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/19:01:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/19:02:16		Starting data loading Training
+2022-09-04/19:02:16		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/19:02:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/19:02:54		Starting data loading Training
+2022-09-04/19:02:54		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/19:02:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/23:45:38		Starting data loading Training
+2022-09-04/23:45:38		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/23:45:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-04/23:59:35		Starting data loading Training
+2022-09-04/23:59:35		Entered the get_data_from_source method of the Data_Getter class
+2022-09-04/23:59:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:03:32		Starting data loading Training
+2022-09-05/00:03:32		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:03:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:15:24		Starting data loading Training
+2022-09-05/00:15:24		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:15:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:18:23		Starting data loading Training
+2022-09-05/00:18:24		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:18:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:18:37		Starting data loading Training
+2022-09-05/00:18:37		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:18:37		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:20:45		Starting data loading Training
+2022-09-05/00:20:45		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:20:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:21:18		Starting data loading Training
+2022-09-05/00:21:18		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:21:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:26:26		Starting data loading Training
+2022-09-05/00:26:26		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:26:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/00:57:39		Starting data loading Training
+2022-09-05/00:57:39		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/00:57:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/20:34:51		Starting data loading Training
+2022-09-05/20:34:51		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/20:34:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/20:53:55		Starting data loading Training
+2022-09-05/20:53:55		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/20:53:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/20:55:49		Starting data loading Training
+2022-09-05/20:55:49		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/20:55:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:04:31		Starting data loading Training
+2022-09-05/23:04:31		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:04:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:07:00		Starting data loading Training
+2022-09-05/23:07:00		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:07:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:09:11		Starting data loading Training
+2022-09-05/23:09:11		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:09:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:11:04		Starting data loading Training
+2022-09-05/23:11:04		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:11:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:13:50		Starting data loading Training
+2022-09-05/23:13:50		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:13:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:15:18		Starting data loading Training
+2022-09-05/23:15:18		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:15:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-05/23:15:49		Starting data loading Training
+2022-09-05/23:15:49		Entered the get_data_from_source method of the Data_Getter class
+2022-09-05/23:15:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:32:58		Starting data loading Training
+2022-09-07/00:32:58		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:32:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:36:02		Starting data loading Training
+2022-09-07/00:36:02		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:36:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:38:35		Starting data loading Training
+2022-09-07/00:38:35		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:38:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:40:17		Starting data loading Training
+2022-09-07/00:40:17		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:40:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:41:38		Starting data loading Training
+2022-09-07/00:41:38		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:41:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:43:11		Starting data loading Training
+2022-09-07/00:43:11		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:43:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:44:41		Starting data loading Training
+2022-09-07/00:44:41		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:44:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:45:52		Starting data loading Training
+2022-09-07/00:45:52		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:45:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:46:46		Starting data loading Training
+2022-09-07/00:46:46		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:46:46		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:47:31		Starting data loading Training
+2022-09-07/00:47:31		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:47:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:50:17		Starting data loading Training
+2022-09-07/00:50:17		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:50:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-07/00:52:09		Starting data loading Training
+2022-09-07/00:52:09		Entered the get_data_from_source method of the Data_Getter class
+2022-09-07/00:52:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/00:43:03		Starting data loading Training
+2022-09-08/00:43:03		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/00:43:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/00:48:28		Starting data loading Training
+2022-09-08/00:48:28		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/00:48:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/00:50:30		Starting data loading Training
+2022-09-08/00:50:30		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/00:50:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/00:53:41		Starting data loading Training
+2022-09-08/00:53:41		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/00:53:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/00:58:40		Starting data loading Training
+2022-09-08/00:58:40		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/00:58:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/01:01:16		Starting data loading Training
+2022-09-08/01:01:16		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/01:01:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-08/01:04:26		Starting data loading Training
+2022-09-08/01:04:26		Entered the get_data_from_source method of the Data_Getter class
+2022-09-08/01:04:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-13/00:00:56		Starting data loading Training
+2022-09-13/00:00:56		Entered the get_data_from_source method of the Data_Getter class
+2022-09-13/00:00:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-13/01:53:05		Starting data loading Training
+2022-09-13/01:53:05		Entered the get_data_from_source method of the Data_Getter class
+2022-09-13/01:53:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/21:50:11		Starting data loading Training
+2022-09-14/21:50:11		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/21:50:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/21:56:36		Starting data loading Training
+2022-09-14/21:56:36		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/21:56:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/21:56:58		Starting data loading Training
+2022-09-14/21:56:58		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/21:56:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/21:57:16		Starting data loading Training
+2022-09-14/21:57:16		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/21:57:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/21:58:49		Starting data loading Training
+2022-09-14/21:58:49		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/21:58:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:03:06		Starting data loading Training
+2022-09-14/22:03:06		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:03:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:04:04		Starting data loading Training
+2022-09-14/22:04:04		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:04:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:06:55		Starting data loading Training
+2022-09-14/22:06:55		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:06:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:10:09		Starting data loading Training
+2022-09-14/22:10:09		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:10:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:11:27		Starting data loading Training
+2022-09-14/22:11:27		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:11:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:13:53		Starting data loading Training
+2022-09-14/22:13:53		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:13:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:15:03		Starting data loading Training
+2022-09-14/22:15:03		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:15:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:46:41		Starting data loading Training
+2022-09-14/22:46:41		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:46:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:47:47		Starting data loading Training
+2022-09-14/22:47:47		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:47:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:50:34		Starting data loading Training
+2022-09-14/22:50:34		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:50:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:51:53		Starting data loading Training
+2022-09-14/22:51:53		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:51:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/22:58:54		Starting data loading Training
+2022-09-14/22:58:54		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/22:58:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/23:07:21		Starting data loading Training
+2022-09-14/23:07:21		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/23:07:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/23:16:51		Starting data loading Training
+2022-09-14/23:16:51		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/23:16:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/23:23:27		Starting data loading Training
+2022-09-14/23:23:27		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/23:23:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/23:42:22		Starting data loading Training
+2022-09-14/23:42:22		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/23:42:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/23:51:40		Starting data loading Training
+2022-09-14/23:51:40		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/23:51:40		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-14/23:59:11		Starting data loading Training
+2022-09-14/23:59:11		Entered the get_data_from_source method of the Data_Getter class
+2022-09-14/23:59:11		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-15/00:01:41		Starting data loading Training
+2022-09-15/00:01:41		Entered the get_data_from_source method of the Data_Getter class
+2022-09-15/00:01:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-15/00:14:53		Starting data loading Training
+2022-09-15/00:14:53		Entered the get_data_from_source method of the Data_Getter class
+2022-09-15/00:14:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-18/23:13:21		Starting data loading Training
+2022-09-18/23:13:21		Entered the get_data_from_source method of the Data_Getter class
+2022-09-18/23:13:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-18/23:51:14		Starting data loading Training
+2022-09-18/23:51:14		Entered the get_data_from_source method of the Data_Getter class
+2022-09-18/23:51:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/20:41:10		Starting data loading Training
+2022-09-20/20:41:10		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/20:41:10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/21:12:19		Starting data loading Training
+2022-09-20/21:12:19		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/21:12:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/21:30:25		Starting data loading Training
+2022-09-20/21:30:25		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/21:30:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/21:53:25		Starting data loading Training
+2022-09-20/21:53:25		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/21:53:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:21:28		Starting data loading Training
+2022-09-20/23:21:28		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:21:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:26:49		Starting data loading Training
+2022-09-20/23:26:49		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:26:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:30:58		Starting data loading Training
+2022-09-20/23:30:58		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:30:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:34:08		Starting data loading Training
+2022-09-20/23:34:08		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:34:08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:35:17		Starting data loading Training
+2022-09-20/23:35:17		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:35:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:36:48		Starting data loading Training
+2022-09-20/23:36:48		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:36:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:38:33		Starting data loading Training
+2022-09-20/23:38:33		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:38:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:41:41		Starting data loading Training
+2022-09-20/23:41:41		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:41:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-20/23:43:41		Starting data loading Training
+2022-09-20/23:43:41		Entered the get_data_from_source method of the Data_Getter class
+2022-09-20/23:43:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-21/09:15:51		Starting data loading Training
+2022-09-21/09:15:51		Entered the get_data_from_source method of the Data_Getter class
+2022-09-21/09:15:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-21/10:02:18		Starting data loading Training
+2022-09-21/10:02:18		Entered the get_data_from_source method of the Data_Getter class
+2022-09-21/10:02:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-21/10:03:58		Starting data loading Training
+2022-09-21/10:03:58		Entered the get_data_from_source method of the Data_Getter class
+2022-09-21/10:03:58		Data Load Successful.Exited the get_data method of the Data_Getter class

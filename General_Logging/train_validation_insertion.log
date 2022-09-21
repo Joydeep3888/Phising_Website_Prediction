@@ -1,0 +1,209 @@
+2022-09-02/00:15:33		start of train_validation
+2022-09-02/00:15:33		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/Read_Values_from_Schema_log.log'
+2022-09-02/00:16:42		start of train_validation
+2022-09-02/00:16:42		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/Read_Values_from_Schema_log.log'
+2022-09-02/00:19:33		start of train_validation
+2022-09-02/00:19:33		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/Read_Values_from_Schema_log.log'
+2022-09-02/00:22:44		start of train_validation
+2022-09-02/00:22:44		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/Read_Values_from_Schema_log.txt'
+2022-09-02/00:28:18		start of train_validation
+2022-09-02/00:28:18		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/Read_Values_from_Schema_log.txt'
+2022-09-02/00:35:50		start of train_validation
+2022-09-02/00:35:50		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/00:35:50		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/validating_file_name_format.log'
+2022-09-02/00:44:43		start of train_validation
+2022-09-02/00:44:43		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/00:44:43		There is some Exception happened ::local variable 'path_log' referenced before assignment
+2022-09-02/19:32:13		start of train_validation
+2022-09-02/19:32:13		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/19:32:13		There is some Exception happened ::local variable 'path_log' referenced before assignment
+2022-09-02/19:37:17		start of train_validation
+2022-09-02/19:37:17		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/19:37:17		reading values from rawValidation: validating_file_name_format
+2022-09-02/19:37:17		There is some Exception happened ::validating_file_name_format() takes 1 positional argument but 2 were given
+2022-09-02/19:52:30		start of train_validation
+2022-09-02/19:52:30		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/19:52:30		reading values from rawValidation: validating_file_name_format
+2022-09-02/19:52:30		There is some Exception happened ::validating_file_name_format() takes 1 positional argument but 2 were given
+2022-09-02/22:04:03		start of train_validation
+2022-09-02/22:04:03		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:04:03		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:04:03		There is some Exception happened ::validating_file_name_format() takes 1 positional argument but 2 were given
+2022-09-02/22:11:46		start of train_validation
+2022-09-02/22:11:46		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:11:46		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:11:46		There is some Exception happened ::validating_file_name_format() takes 1 positional argument but 2 were given
+2022-09-02/22:13:12		start of train_validation
+2022-09-02/22:13:12		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:13:12		There is some Exception happened ::validating_file_name_format() takes 1 positional argument but 2 were given
+2022-09-02/22:25:15		start of train_validation
+2022-09-02/22:25:15		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:25:15		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:25:15		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:25:15		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/validateMissingValuesInWholeColumn.log'
+2022-09-02/22:34:23		start of train_validation
+2022-09-02/22:34:23		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:34:23		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:34:23		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:34:23		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/validateMissingValuesInWholeColumn.log'
+2022-09-02/22:35:26		start of train_validation
+2022-09-02/22:35:26		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:35:26		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:35:26		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:35:26		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/validateMissingValuesInWholeColumn.log'
+2022-09-02/22:38:38		start of train_validation
+2022-09-02/22:38:38		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:38:38		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:38:38		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:38:38		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/validateMissingValuesInWholeColumn.log'
+2022-09-02/22:41:26		start of train_validation
+2022-09-02/22:41:26		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:41:26		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:41:26		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:41:26		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-02/22:41:26		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-02/22:41:26		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-02/22:41:26		There is some Exception happened ::'train_validation' object has no attribute 'raw'
+2022-09-02/22:44:23		start of train_validation
+2022-09-02/22:44:23		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/22:44:23		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:44:23		reading values from rawValidation: validating_file_name_format
+2022-09-02/22:44:23		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-02/22:44:23		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-02/22:44:23		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-02/22:44:23		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-02/22:44:23		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-02/22:44:23		start of Data Transformation
+2022-09-02/22:44:23		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/addQuotesToStringValuesInColumn.log'
+2022-09-02/23:19:55		start of train_validation
+2022-09-02/23:19:56		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/23:19:56		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:19:56		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:19:56		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-02/23:19:56		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-02/23:19:56		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-02/23:19:56		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-02/23:19:56		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-02/23:19:56		start of Data Transformation
+2022-09-02/23:19:56		Data Transformation has been completed sucessfully
+2022-09-02/23:19:56		dBOperation: start of DB Operations
+2022-09-02/23:19:56		There is some Exception happened ::unable to open database file
+2022-09-02/23:25:27		start of train_validation
+2022-09-02/23:25:27		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/23:25:27		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:25:27		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:25:27		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-02/23:25:27		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-02/23:25:27		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-02/23:25:27		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-02/23:25:27		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-02/23:25:27		start of Data Transformation
+2022-09-02/23:25:27		Data Transformation has been completed sucessfully
+2022-09-02/23:25:27		DatatypeValidation: dBOperation: start of DB Operations
+2022-09-02/23:25:27		There is some Exception happened ::unable to open database file
+2022-09-02/23:26:54		start of train_validation
+2022-09-02/23:26:54		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/23:26:54		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:26:54		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:26:54		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-02/23:26:54		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-02/23:26:54		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-02/23:26:54		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-02/23:26:54		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-02/23:26:54		start of Data Transformation
+2022-09-02/23:26:54		Data Transformation has been completed sucessfully
+2022-09-02/23:26:54		DatatypeValidation: dBOperation: start of DB Operations
+2022-09-02/23:26:54		There is some Exception happened ::unable to open database file
+2022-09-02/23:45:07		start of train_validation
+2022-09-02/23:45:07		reading values from rawValidation: Read_Values_from_Schema
+2022-09-02/23:45:07		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:45:07		reading values from rawValidation: validating_file_name_format
+2022-09-02/23:45:07		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-02/23:45:07		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-02/23:45:07		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-02/23:45:07		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-02/23:45:07		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-02/23:45:07		start of Data Transformation
+2022-09-02/23:45:07		Data Transformation has been completed sucessfully
+2022-09-02/23:45:07		DatatypeValidation: dBOperation: start of DB Operations
+2022-09-02/23:45:08		Inside DatatypeValidation: dBOperation: dataBaseConnection
+2022-09-02/23:45:08		DatatypeValidation: dBOperation: Inside createTableDb
+2022-09-02/23:45:08		There is some Exception happened ::[Errno 2] No such file or directory: '../General_Logging/insertIntoTableGoodData.log'
+2022-09-18/23:13:21		start of train_validation
+2022-09-18/23:13:21		There is some Exception happened ::
+2022-09-18/23:51:14		start of train_validation
+2022-09-18/23:51:14		There is some Exception happened ::
+2022-09-20/20:41:10		start of train_validation
+2022-09-20/20:41:10		There is some Exception happened ::
+2022-09-20/21:12:19		start of train_validation
+2022-09-20/21:12:19		There is some Exception happened ::
+2022-09-20/21:30:25		start of train_validation
+2022-09-20/21:30:25		There is some Exception happened ::
+2022-09-20/21:53:25		start of train_validation
+2022-09-20/21:53:25		There is some Exception happened ::
+2022-09-20/23:19:10		start of train_validation
+2022-09-20/23:19:10		reading values from rawValidation: Read_Values_from_Schema
+2022-09-20/23:19:10		reading values from rawValidation: validating_file_name_format
+2022-09-20/23:19:10		reading values from rawValidation: validating_file_name_format
+2022-09-20/23:19:10		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-20/23:19:10		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-20/23:19:10		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-20/23:19:10		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-20/23:19:10		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-20/23:19:10		start of Data Transformation
+2022-09-20/23:19:10		Data Transformation has been completed sucessfully
+2022-09-20/23:19:10		DatatypeValidation: dBOperation: start of DB Operations
+2022-09-20/23:19:10		Inside DatatypeValidation: dBOperation: dataBaseConnection
+2022-09-20/23:19:10		DatatypeValidation: dBOperation: Inside createTableDb
+2022-09-20/23:21:28		DatatypeValidation: dBOperation: Inside insertIntoTableGoodData
+2022-09-20/23:21:28		DatatypeValidation: dBOperation: Inside selectingDatafromtableintocsv
+2022-09-20/23:24:15		start of train_validation
+2022-09-20/23:24:15		reading values from rawValidation: Read_Values_from_Schema
+2022-09-20/23:24:15		reading values from rawValidation: validating_file_name_format
+2022-09-20/23:24:15		reading values from rawValidation: validating_file_name_format
+2022-09-20/23:24:16		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-20/23:24:16		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-20/23:24:16		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-20/23:24:16		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-20/23:24:16		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-20/23:24:16		start of Data Transformation
+2022-09-20/23:24:16		Data Transformation has been completed sucessfully
+2022-09-20/23:24:16		DatatypeValidation: dBOperation: start of DB Operations
+2022-09-20/23:24:16		Inside DatatypeValidation: dBOperation: dataBaseConnection
+2022-09-20/23:24:16		DatatypeValidation: dBOperation: Inside createTableDb
+2022-09-20/23:26:49		DatatypeValidation: dBOperation: Inside insertIntoTableGoodData
+2022-09-20/23:26:49		DatatypeValidation: dBOperation: Inside selectingDatafromtableintocsv
+2022-09-20/23:28:11		start of train_validation
+2022-09-20/23:28:11		reading values from rawValidation: Read_Values_from_Schema
+2022-09-20/23:28:11		reading values from rawValidation: validating_file_name_format
+2022-09-20/23:28:11		reading values from rawValidation: validating_file_name_format
+2022-09-20/23:28:11		reading values from rawValidation: validateMissingValuesInWholeColumn
+2022-09-20/23:28:11		reading values from rawValidation: CreateDirectoryForGoodData
+2022-09-20/23:28:11		reading values from rawValidation: CreateDirectoryForBadData
+2022-09-20/23:28:11		reading values from rawValidation: deleteExistingBadDataTrainingFolder
+2022-09-20/23:28:11		reading values from rawValidation: moveBadFilesToArchiveBad
+2022-09-20/23:28:11		start of Data Transformation
+2022-09-20/23:28:11		Data Transformation has been completed sucessfully
+2022-09-20/23:28:11		DatatypeValidation: dBOperation: start of DB Operations
+2022-09-20/23:28:11		Inside DatatypeValidation: dBOperation: dataBaseConnection
+2022-09-20/23:28:11		DatatypeValidation: dBOperation: Inside createTableDb
+2022-09-20/23:30:57		DatatypeValidation: dBOperation: Inside insertIntoTableGoodData
+2022-09-20/23:30:58		DatatypeValidation: dBOperation: Inside selectingDatafromtableintocsv
+2022-09-20/23:34:08		start of train_validation
+2022-09-20/23:34:08		There is some Exception happened ::
+2022-09-20/23:35:17		start of train_validation
+2022-09-20/23:35:17		There is some Exception happened ::
+2022-09-20/23:36:48		start of train_validation
+2022-09-20/23:36:48		There is some Exception happened ::
+2022-09-20/23:38:33		start of train_validation
+2022-09-20/23:38:33		There is some Exception happened ::
+2022-09-20/23:41:41		start of train_validation
+2022-09-20/23:41:41		There is some Exception happened ::
+2022-09-20/23:43:41		start of train_validation
+2022-09-20/23:43:41		There is some Exception happened ::
+2022-09-21/09:15:51		start of train_validation
+2022-09-21/09:15:51		There is some Exception happened ::
+2022-09-21/10:02:18		start of train_validation
+2022-09-21/10:02:18		There is some Exception happened ::
+2022-09-21/10:03:58		start of train_validation
+2022-09-21/10:03:58		There is some Exception happened ::

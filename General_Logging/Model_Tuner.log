@@ -1,0 +1,1128 @@
+2022-09-14/22:58:58		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:07:25		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:16:56		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:16:56		Entered the get_best_model method of the Model_Finder class
+2022-09-14/23:16:56		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:16:57		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  
+All the 80 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+80 fits failed with the following error:
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\envs\Phising Website Prediction\lib\site-packages\sklearn\model_selection\_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "C:\ProgramData\Anaconda3\envs\Phising Website Prediction\lib\site-packages\xgboost\core.py", line 575, in inner_f
+    return f(**kwargs)
+  File "C:\ProgramData\Anaconda3\envs\Phising Website Prediction\lib\site-packages\xgboost\sklearn.py", line 1357, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2022-09-14/23:16:57		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:16:57		Exception occured in get_best_model method of the Model_Finder class. Exception message:  
+2022-09-14/23:16:57		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-09-14/23:23:31		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:23:31		Entered the get_best_model method of the Model_Finder class
+2022-09-14/23:23:31		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:23:51		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:23:51		Exception occured in get_best_model method of the Model_Finder class. Exception message:  I/O operation on closed file.
+2022-09-14/23:23:51		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-09-14/23:42:27		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:42:27		Entered the get_best_model method of the Model_Finder class
+2022-09-14/23:42:27		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:42:59		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:42:59		Exception occured in get_best_model method of the Model_Finder class. Exception message:  I/O operation on closed file.
+2022-09-14/23:42:59		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-09-14/23:51:44		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:51:44		Entered the get_best_model method of the Model_Finder class
+2022-09-14/23:51:44		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:52:04		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:52:05		Exception occured in get_best_model method of the Model_Finder class. Exception message:  I/O operation on closed file.
+2022-09-14/23:52:05		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-09-14/23:59:17		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-14/23:59:17		Entered the get_best_model method of the Model_Finder class
+2022-09-14/23:59:17		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:59:35		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-14/23:59:35		Exception occured in get_best_model method of the Model_Finder class. Exception message:  I/O operation on closed file.
+2022-09-14/23:59:35		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-09-15/00:01:45		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-15/00:01:45		Entered the get_best_model method of the Model_Finder class
+2022-09-15/00:01:45		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:02:07		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:02:07		Exception occured in get_best_model method of the Model_Finder class. Exception message:  I/O operation on closed file.
+2022-09-15/00:02:07		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2022-09-15/00:14:56		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-15/00:14:56		Entered the get_best_model method of the Model_Finder class
+2022-09-15/00:14:56		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:15:11		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:15:11		AUC for XGBoost:0.9805760557605576
+2022-09-15/00:15:11		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:15:11		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:15:37		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:15:37		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:15:37		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:15:37		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-15/00:15:37		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:15:37		AUC for SVM:0.9805760557605576
+2022-09-15/00:15:37		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:15:37		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:16:07		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:16:07		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:16:07		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:16:07		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-15/00:16:08		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:16:08		AUC for SVM:0.9805760557605576
+2022-09-15/00:16:08		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-15/00:16:08		Entered the get_best_model method of the Model_Finder class
+2022-09-15/00:16:08		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:18:18		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:18:18		AUC for XGBoost:0.9470547192229818
+2022-09-15/00:18:18		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:18:18		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:24:39		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:24:39		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:24:39		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:24:39		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-15/00:24:40		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:24:40		AUC for SVM:0.9443988954734399
+2022-09-15/00:24:40		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:24:40		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:30:05		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:30:05		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:30:05		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:30:05		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-15/00:30:05		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:30:05		AUC for SVM:0.9443988954734399
+2022-09-15/00:30:05		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-15/00:30:05		Entered the get_best_model method of the Model_Finder class
+2022-09-15/00:30:05		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:31:17		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 110}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:31:17		AUC for XGBoost:0.9468137496306511
+2022-09-15/00:31:17		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:31:17		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:34:48		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:34:48		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:34:48		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:34:48		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-15/00:34:48		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:34:48		AUC for SVM:0.9487409304310712
+2022-09-15/00:34:48		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:34:48		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:37:38		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:37:38		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:37:38		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:37:38		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-15/00:37:39		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:37:39		AUC for SVM:0.9487409304310712
+2022-09-15/00:37:39		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-15/00:37:39		Entered the get_best_model method of the Model_Finder class
+2022-09-15/00:37:39		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:38:04		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-15/00:38:04		AUC for XGBoost:0.9813940092165897
+2022-09-15/00:38:04		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:38:04		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:38:54		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:38:54		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:38:54		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:38:54		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-15/00:38:54		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:38:54		AUC for SVM:0.9856134792626728
+2022-09-15/00:38:54		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:38:54		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:39:41		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-15/00:39:41		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:39:41		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-15/00:39:41		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-15/00:39:41		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-15/00:39:41		AUC for SVM:0.9856134792626728
+2022-09-18/23:21:59		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-18/23:21:59		Entered the get_best_model method of the Model_Finder class
+2022-09-18/23:21:59		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-18/23:22:22		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-18/23:22:22		AUC for XGBoost:0.9805760557605576
+2022-09-18/23:22:22		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:22:22		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:22:45		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:22:45		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:22:45		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:22:45		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-18/23:22:46		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:22:46		AUC for SVM:0.9805760557605576
+2022-09-18/23:22:46		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:22:46		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:23:10		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:23:10		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:23:10		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:23:10		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-18/23:23:10		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:23:10		AUC for SVM:0.9805760557605576
+2022-09-18/23:51:19		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-18/23:51:19		Entered the get_best_model method of the Model_Finder class
+2022-09-18/23:51:19		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-18/23:51:34		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-18/23:51:34		AUC for XGBoost:0.9805760557605576
+2022-09-18/23:51:34		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:51:34		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:52:02		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:52:02		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:52:02		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:52:02		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-18/23:52:02		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:52:02		AUC for SVM:0.9805760557605576
+2022-09-18/23:52:02		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:52:02		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:52:33		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:52:33		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:52:33		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:52:33		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-18/23:52:33		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:52:33		AUC for SVM:0.9805760557605576
+2022-09-18/23:52:33		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-18/23:52:33		Entered the get_best_model method of the Model_Finder class
+2022-09-18/23:52:33		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-18/23:54:20		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-18/23:54:20		AUC for XGBoost:0.9470547192229818
+2022-09-18/23:54:20		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:54:20		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:59:34		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-18/23:59:34		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:59:34		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-18/23:59:34		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-18/23:59:34		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:59:34		AUC for SVM:0.9443988954734399
+2022-09-18/23:59:34		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-18/23:59:34		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:04:06		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:04:06		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:04:06		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:04:06		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-19/00:04:07		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:04:07		AUC for SVM:0.9443988954734399
+2022-09-19/00:04:07		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-19/00:04:07		Entered the get_best_model method of the Model_Finder class
+2022-09-19/00:04:07		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-19/00:05:19		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 110}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-19/00:05:19		AUC for XGBoost:0.9468137496306511
+2022-09-19/00:05:19		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:05:19		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:08:11		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:08:11		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:08:11		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:08:11		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-19/00:08:11		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:08:11		AUC for SVM:0.9487409304310712
+2022-09-19/00:08:11		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:08:11		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:10:59		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:10:59		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:10:59		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:10:59		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-19/00:11:00		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:11:00		AUC for SVM:0.9487409304310712
+2022-09-19/00:11:00		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-19/00:11:00		Entered the get_best_model method of the Model_Finder class
+2022-09-19/00:11:00		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-19/00:11:25		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-19/00:11:25		AUC for XGBoost:0.9813940092165897
+2022-09-19/00:11:25		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:11:25		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:12:08		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:12:08		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:12:08		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:12:08		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-19/00:12:08		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:12:08		AUC for SVM:0.9856134792626728
+2022-09-19/00:12:08		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:12:08		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:12:48		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-19/00:12:48		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:12:48		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-19/00:12:48		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-19/00:12:48		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-19/00:12:48		AUC for SVM:0.9856134792626728
+2022-09-20/20:42:00		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/20:42:00		Entered the get_best_model method of the Model_Finder class
+2022-09-20/20:42:00		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:42:14		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:42:14		AUC for XGBoost:0.9805760557605576
+2022-09-20/20:42:14		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:42:14		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:42:34		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:42:34		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:42:34		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:42:34		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/20:42:34		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:42:34		AUC for SVM:0.9805760557605576
+2022-09-20/20:42:34		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:42:34		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:42:55		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:42:55		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:42:55		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:42:55		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/20:42:55		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:42:55		AUC for SVM:0.9805760557605576
+2022-09-20/20:42:55		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/20:42:55		Entered the get_best_model method of the Model_Finder class
+2022-09-20/20:42:55		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:44:35		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:44:35		AUC for XGBoost:0.9470547192229818
+2022-09-20/20:44:35		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:44:35		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:48:58		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:48:58		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:48:58		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:48:58		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/20:48:58		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:48:58		AUC for SVM:0.9443988954734399
+2022-09-20/20:48:58		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:48:58		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:53:12		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:53:12		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:53:12		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:53:12		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/20:53:12		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:53:12		AUC for SVM:0.9443988954734399
+2022-09-20/20:53:12		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/20:53:12		Entered the get_best_model method of the Model_Finder class
+2022-09-20/20:53:12		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:54:09		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 110}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:54:09		AUC for XGBoost:0.9468137496306511
+2022-09-20/20:54:09		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:54:09		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:56:29		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:56:29		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:56:29		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:56:29		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/20:56:29		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:56:29		AUC for SVM:0.9487409304310712
+2022-09-20/20:56:29		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:56:29		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:59:00		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/20:59:00		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:59:00		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/20:59:00		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/20:59:00		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:59:01		AUC for SVM:0.9487409304310712
+2022-09-20/20:59:01		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/20:59:01		Entered the get_best_model method of the Model_Finder class
+2022-09-20/20:59:01		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:59:26		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/20:59:26		AUC for XGBoost:0.9813940092165897
+2022-09-20/20:59:26		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/20:59:26		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:00:09		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:00:09		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:00:09		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:00:09		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:00:09		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:00:09		AUC for SVM:0.9856134792626728
+2022-09-20/21:00:09		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:00:09		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:00:51		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:00:51		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:00:51		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:00:51		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:00:51		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:00:51		AUC for SVM:0.9856134792626728
+2022-09-20/21:12:29		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:12:29		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:12:29		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:12:44		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:12:44		AUC for XGBoost:0.9805760557605576
+2022-09-20/21:12:44		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:12:44		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:13:09		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:13:09		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:13:09		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:13:09		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/21:13:09		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:13:09		AUC for SVM:0.9805760557605576
+2022-09-20/21:13:09		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:13:09		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:13:37		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:13:37		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:13:37		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:13:37		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/21:13:37		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:13:37		AUC for SVM:0.9805760557605576
+2022-09-20/21:13:37		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:13:37		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:13:37		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:15:28		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:15:28		AUC for XGBoost:0.9470547192229818
+2022-09-20/21:15:28		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:15:28		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:19:54		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:19:54		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:19:54		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:19:54		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:19:54		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:19:54		AUC for SVM:0.9443988954734399
+2022-09-20/21:19:54		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:19:54		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:24:17		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:24:17		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:24:17		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:24:17		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:24:17		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:24:17		AUC for SVM:0.9443988954734399
+2022-09-20/21:30:33		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:30:33		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:30:33		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:30:52		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:30:52		AUC for XGBoost:0.9805760557605576
+2022-09-20/21:30:52		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:30:52		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:31:17		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:31:17		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:31:17		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:31:17		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/21:31:17		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:31:17		AUC for SVM:0.9805760557605576
+2022-09-20/21:31:17		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:31:17		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:31:42		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:31:42		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:31:42		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:31:42		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/21:31:42		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:31:43		AUC for SVM:0.9805760557605576
+2022-09-20/21:31:43		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:31:43		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:31:43		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:33:14		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:33:14		AUC for XGBoost:0.9470547192229818
+2022-09-20/21:33:14		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:33:14		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:37:52		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:37:52		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:37:52		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:37:52		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:37:52		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:37:52		AUC for SVM:0.9443988954734399
+2022-09-20/21:37:52		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:37:52		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:42:14		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:42:14		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:42:14		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:42:14		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:42:14		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:42:14		AUC for SVM:0.9443988954734399
+2022-09-20/21:42:14		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:42:14		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:42:14		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:43:12		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 110}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:43:12		AUC for XGBoost:0.9468137496306511
+2022-09-20/21:43:12		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:43:12		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:45:40		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:45:40		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:45:40		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:45:40		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:45:40		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:45:41		AUC for SVM:0.9487409304310712
+2022-09-20/21:45:41		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:45:41		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:47:55		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:47:55		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:47:55		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:47:55		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:47:55		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:47:55		AUC for SVM:0.9487409304310712
+2022-09-20/21:47:55		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:47:55		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:47:55		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:48:16		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:48:16		AUC for XGBoost:0.9813940092165897
+2022-09-20/21:48:16		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:48:16		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:48:51		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:48:51		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:48:51		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:48:51		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:48:51		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:48:51		AUC for SVM:0.9856134792626728
+2022-09-20/21:48:51		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:48:51		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:49:27		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:49:27		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:49:27		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:49:27		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/21:49:27		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:49:27		AUC for SVM:0.9856134792626728
+2022-09-20/21:53:32		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:53:32		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:53:32		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:53:46		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:53:46		AUC for XGBoost:0.9805760557605576
+2022-09-20/21:53:46		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:53:46		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:54:13		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:54:13		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:54:13		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:54:13		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/21:54:13		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:54:13		AUC for SVM:0.9805760557605576
+2022-09-20/21:54:13		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:54:13		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:54:36		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=1, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/21:54:36		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:54:36		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/21:54:36		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:1--random_state: 101--gamma:0.2
+2022-09-20/21:54:36		7-get_best_params_for_svm: SVM best params: {'C': 1, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:54:36		AUC for SVM:0.9805760557605576
+2022-09-20/21:54:36		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/21:54:36		Entered the get_best_model method of the Model_Finder class
+2022-09-20/21:54:36		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:56:00		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/21:56:00		AUC for XGBoost:0.9470547192229818
+2022-09-20/21:56:00		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/21:56:00		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:02:40		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:02:40		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:02:40		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:02:40		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/22:02:41		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:02:41		AUC for SVM:0.9443988954734399
+2022-09-20/22:02:41		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:02:41		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:09:14		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:09:14		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:09:14		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:09:14		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/22:09:15		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:09:15		AUC for SVM:0.9443988954734399
+2022-09-20/22:09:15		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/22:09:15		Entered the get_best_model method of the Model_Finder class
+2022-09-20/22:09:15		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/22:10:43		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 110}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/22:10:43		AUC for XGBoost:0.9468137496306511
+2022-09-20/22:10:43		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:10:43		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:14:45		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:14:45		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:14:45		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:14:45		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/22:14:45		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:14:45		AUC for SVM:0.9487409304310712
+2022-09-20/22:14:45		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:14:45		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:17:31		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:17:31		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:17:31		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:17:31		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/22:17:31		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:17:31		AUC for SVM:0.9487409304310712
+2022-09-20/22:17:31		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/22:17:31		Entered the get_best_model method of the Model_Finder class
+2022-09-20/22:17:31		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/22:17:53		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/22:17:53		AUC for XGBoost:0.9813940092165897
+2022-09-20/22:17:53		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:17:53		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:18:29		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:18:29		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:18:29		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:18:29		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/22:18:29		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:18:29		AUC for SVM:0.9856134792626728
+2022-09-20/22:18:29		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:18:29		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:19:07		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/22:19:07		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:19:07		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/22:19:07		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-20/22:19:07		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/22:19:07		AUC for SVM:0.9856134792626728
+2022-09-20/23:43:51		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-20/23:43:51		Entered the get_best_model method of the Model_Finder class
+2022-09-20/23:43:51		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/23:45:06		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-20/23:45:06		AUC for XGBoost:0.9990808823529411
+2022-09-20/23:45:06		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/23:45:06		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/23:48:59		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/23:48:59		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/23:48:59		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/23:48:59		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-20/23:48:59		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/23:48:59		AUC for SVM:0.9990808823529411
+2022-09-20/23:48:59		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/23:48:59		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/23:52:27		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-20/23:52:27		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/23:52:27		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-20/23:52:27		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-20/23:52:28		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-20/23:52:28		AUC for SVM:0.9990808823529411
+2022-09-21/09:16:03		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-21/09:16:03		Entered the get_best_model method of the Model_Finder class
+2022-09-21/09:16:03		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/09:17:18		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/09:17:18		AUC for XGBoost:0.9990808823529411
+2022-09-21/09:17:18		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/09:17:18		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/09:20:50		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/09:20:50		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/09:20:50		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/09:20:50		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/09:20:51		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/09:20:51		AUC for SVM:0.9990808823529411
+2022-09-21/09:20:51		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/09:20:51		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/09:24:27		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/09:24:27		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/09:24:27		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/09:24:27		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/09:24:27		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/09:24:27		AUC for SVM:0.9990808823529411
+2022-09-21/10:04:10		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-21/10:04:10		Entered the get_best_model method of the Model_Finder class
+2022-09-21/10:04:10		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/10:05:08		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/10:05:08		AUC for XGBoost:0.9990808823529411
+2022-09-21/10:05:08		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/10:05:08		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/10:08:05		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/10:08:05		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/10:08:05		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/10:08:05		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/10:08:06		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/10:08:06		AUC for SVM:0.9990808823529411
+2022-09-21/10:08:06		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/10:08:06		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/10:11:11		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/10:11:11		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/10:11:11		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/10:11:11		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/10:11:11		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/10:11:11		AUC for SVM:0.9990808823529411
+2022-09-21/10:11:11		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-21/10:11:11		Entered the get_best_model method of the Model_Finder class
+2022-09-21/10:11:11		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/10:16:57		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/10:16:57		AUC for XGBoost:0.9756120890180237
+2022-09-21/10:16:57		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/10:16:57		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/11:10:13		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/11:10:13		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/11:10:13		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/11:10:13		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/11:10:15		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/11:10:16		AUC for SVM:0.9763940371860308
+2022-09-21/11:10:16		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/11:10:16		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/12:10:01		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/12:10:01		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/12:10:01		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/12:10:01		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/12:10:03		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/12:10:04		AUC for SVM:0.9763940371860308
+2022-09-21/12:10:05		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-21/12:10:05		Entered the get_best_model method of the Model_Finder class
+2022-09-21/12:10:05		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/12:14:08		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 130}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/12:14:08		AUC for XGBoost:0.9863665708157212
+2022-09-21/12:14:08		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/12:14:08		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/12:45:15		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/12:45:15		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/12:45:15		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/12:45:15		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/12:45:17		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/12:45:18		AUC for SVM:0.9868701701201905
+2022-09-21/12:45:18		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/12:45:18		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/13:12:33		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.2, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/13:12:33		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/13:12:33		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/13:12:33		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.2
+2022-09-21/13:12:34		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.2, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/13:12:35		AUC for SVM:0.9868701701201905
+2022-09-21/13:12:35		Parent: Starting of Tuner.py of Model_Finder Class
+2022-09-21/13:12:35		Entered the get_best_model method of the Model_Finder class
+2022-09-21/13:12:35		1: get_best_params_for_xgboost-->Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/13:14:56		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}--Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-09-21/13:14:56		AUC for XGBoost:1.0
+2022-09-21/13:14:56		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/13:14:56		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/13:22:03		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/13:22:03		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/13:22:03		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/13:22:03		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-21/13:22:04		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/13:22:04		AUC for SVM:1.0
+2022-09-21/13:22:04		1-get_best_params_for_svm: Entered the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/13:22:04		2-get_best_params_for_svm: Creating an object of an Grid Search ClassGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/13:28:25		3-get_best_params_for_svm: Fitting Grid Object with x_train and y_trainGridSearchCV(cv=5, estimator=SVC(C=10, gamma=0.1, random_state=101),
+             param_grid={'C': [1, 0.1, 10, 0.5], 'gamma': [0.1, 0.2, 0.5, 1],
+                         'kernel': ['rbf', 'sigmoid'],
+                         'random_state': [101, 32, 200, 300]},
+             verbose=3)
+2022-09-21/13:28:25		4-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/13:28:25		5-get_best_params_for_svm: Extracting the best parameters from Grid object
+2022-09-21/13:28:25		6-get_best_params_for_svm: creating a new model with the best parameters: kernel: rbf--C:10--random_state: 101--gamma:0.1
+2022-09-21/13:28:25		7-get_best_params_for_svm: SVM best params: {'C': 10, 'gamma': 0.1, 'kernel': 'rbf', 'random_state': 101}. Exited the get_best_params_for_svm method of the Model_Finder class
+2022-09-21/13:28:26		AUC for SVM:1.0

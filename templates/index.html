@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Search Page</title>
+</head>
+
+<body>
+<h1 style="text-align: center">Phising Website Prediction ML Model- Developed by Joydeep Ghosh</h1>
+
+<div class ="form">
+    <form action="/predict" method="POST">
+
+    <h2>Model Prediction Path</h2>
+           <input type="text" name="path" id="path" placeholder="Only provide the absolute path of Prediction_Batch_Files">
+    <br>
+    <h2>submit</h2>
+    <input type="submit" value="predict">
+    </br>
+    </form>
+</div>
+
+<div class ="form">
+    <form action="/training" method="POST">
+
+    <h2>Model Training Path</h2>
+           <input type="text" name="path_train" id="path_train" placeholder="Absolute path of Training_Batch_Files">
+    <br>
+    <h2>submit</h2>
+    <input type="submit" value="train">
+    </br>
+    </form>
+</div>
