@@ -49,7 +49,7 @@ def predict_the_result_from_json():
 def predict_from_html():
     try:
         if request.form is not None:
-                path = request.form['path']
+                path = request.form[r'path']
                 #path=r'C:\Users\hp\OneDrive\Desktop\ineuron\Phising_Website_Prediction/Prediction_Batch_files/'
                 #PROJECT_ROOT=os.path.dirname(os.path.abspath(path))
                 # added this to for ERROR 2 no directory found heroku.
