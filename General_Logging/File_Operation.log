@@ -431,3 +431,21 @@
 2022-09-21/13:12:35		Model FileSVM3saved. Exited the save_model method of the File_Operation class
 2022-09-21/13:28:26		Entered the save_model method of the File_Operation class
 2022-09-21/13:28:26		Model FileSVM0saved. Exited the save_model method of the File_Operation class
+2022-09-22/07:38:39		Entered the load_model method of the File_Operation class
+2022-09-22/07:38:39		Model FileKMeans loaded.Exited the load_model method of the File_Operation class
+2022-09-22/07:38:39		Entered the find_correct_model_file method of the File_Operation class
+2022-09-22/07:38:39		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-22/07:38:39		Entered the load_model method of the File_Operation class
+2022-09-22/07:38:39		Model FileSVM1 loaded.Exited the load_model method of the File_Operation class
+2022-09-22/07:38:39		Entered the find_correct_model_file method of the File_Operation class
+2022-09-22/07:38:39		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-22/07:38:39		Entered the load_model method of the File_Operation class
+2022-09-22/07:38:39		Model FileSVM2 loaded.Exited the load_model method of the File_Operation class
+2022-09-22/07:38:40		Entered the find_correct_model_file method of the File_Operation class
+2022-09-22/07:38:40		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-22/07:38:40		Entered the load_model method of the File_Operation class
+2022-09-22/07:38:40		Model FileSVM3 loaded.Exited the load_model method of the File_Operation class
+2022-09-22/07:38:40		Entered the find_correct_model_file method of the File_Operation class
+2022-09-22/07:38:40		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-22/07:38:40		Entered the load_model method of the File_Operation class
+2022-09-22/07:38:40		Model FileSVM0 loaded.Exited the load_model method of the File_Operation class

@@ -1376,3 +1376,6 @@ Name: Result, Length: 44220, dtype: int64::
 2022-09-21/10:03:58		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
 2022-09-21/10:03:58		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
 2022-09-21/10:03:59		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-09-22/07:38:39		starting with preprocessing
+2022-09-22/07:38:39		Entered the is_null_present method of the Preprocessor class
+2022-09-22/07:38:39		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
