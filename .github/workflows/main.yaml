@@ -9,7 +9,7 @@ on:
 # Your workflows jobs.
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       # Check-out your repository.
       - name: Checkout
