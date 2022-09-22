@@ -51,6 +51,7 @@ def predict_from_html():
         if request.form is not None:
                 path = request.form['path']
                 os.chdir(path)
+                #added this to for ERROR 2 no directory found heroku.
                 print(path)
                 pred_val = prediction_validation_insertion.pred_validation(path)
                 pred_val.prediction_validation()
