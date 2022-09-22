@@ -50,7 +50,7 @@ def predict_from_html():
     try:
         if request.form is not None:
                 path = request.form['path']
-                os.chdir(r'C:\Users\hp\OneDrive\Desktop\ineuron\Phising_Website_Prediction\Prediction_Batch_files')
+                os.chdir(r'C:\Users\hp\OneDrive\Desktop\ineuron\Phising_Website_Prediction/Prediction_Batch_files/')
                 path=os.path.abspath(path)
                 # added this to for ERROR 2 no directory found heroku.
                 os.chdir(path)
