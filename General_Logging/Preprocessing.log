@@ -1400,3 +1400,6 @@ Name: Result, Length: 44220, dtype: int64::
 2022-09-24/12:22:05		starting with preprocessing
 2022-09-24/12:22:05		Entered the is_null_present method of the Preprocessor class
 2022-09-24/12:22:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-09-24/12:30:42		starting with preprocessing
+2022-09-24/12:30:42		Entered the is_null_present method of the Preprocessor class
+2022-09-24/12:30:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class

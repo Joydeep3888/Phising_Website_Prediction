@@ -575,3 +575,21 @@
 2022-09-24/12:22:07		Exited the find_correct_model_file method of the File_Operation class.
 2022-09-24/12:22:07		Entered the load_model method of the File_Operation class
 2022-09-24/12:22:07		Model FileSVM0 loaded.Exited the load_model method of the File_Operation class
+2022-09-24/12:30:42		Entered the load_model method of the File_Operation class
+2022-09-24/12:30:42		Model FileKMeans loaded.Exited the load_model method of the File_Operation class
+2022-09-24/12:30:42		Entered the find_correct_model_file method of the File_Operation class
+2022-09-24/12:30:42		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-24/12:30:42		Entered the load_model method of the File_Operation class
+2022-09-24/12:30:42		Model FileSVM1 loaded.Exited the load_model method of the File_Operation class
+2022-09-24/12:30:42		Entered the find_correct_model_file method of the File_Operation class
+2022-09-24/12:30:42		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-24/12:30:42		Entered the load_model method of the File_Operation class
+2022-09-24/12:30:42		Model FileSVM2 loaded.Exited the load_model method of the File_Operation class
+2022-09-24/12:30:43		Entered the find_correct_model_file method of the File_Operation class
+2022-09-24/12:30:43		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-24/12:30:43		Entered the load_model method of the File_Operation class
+2022-09-24/12:30:43		Model FileSVM3 loaded.Exited the load_model method of the File_Operation class
+2022-09-24/12:30:44		Entered the find_correct_model_file method of the File_Operation class
+2022-09-24/12:30:44		Exited the find_correct_model_file method of the File_Operation class.
+2022-09-24/12:30:44		Entered the load_model method of the File_Operation class
+2022-09-24/12:30:44		Model FileSVM0 loaded.Exited the load_model method of the File_Operation class
